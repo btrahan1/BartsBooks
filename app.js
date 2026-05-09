@@ -82,7 +82,7 @@ function setupEventListeners() {
     // Font Size
     fontSizeSlider.addEventListener('input', (e) => {
         currentFontSize = e.target.value;
-        readerOutput.style.fontSize = `${currentFontSize}px`;
+        document.documentElement.style.fontSize = `${currentFontSize}px`;
     });
 
     // Theme Toggle
@@ -215,7 +215,7 @@ async function loadChapter(chapterNum) {
 
 // Update UI state (font size, etc.)
 function updateUI() {
-    readerOutput.style.fontSize = `${currentFontSize}px`;
+    document.documentElement.style.fontSize = `${currentFontSize}px`;
 }
 
 // Run
