@@ -18,6 +18,12 @@
         "synopsis":  "Stuck in a cycle of dead-end jobs and mountain-high debt, Bart and his tabletop gaming crew spend their Tuesdays pretending to be heroes in a basement. But everything changes when a commercial airs for \"Vitreous Online\"â€”a full-immersion virtual reality world with permanent residency options where your imagination becomes your reality. Tired of being a performer with no stage, Bart decides to take the ultimate leap. He\u0027s going \"Full Bard\" in a world where music is actual magic. Join Bart and his friends as they leave the real world behind for the Grand Finale of their lives!"
     },
     {
+        "id":  "BusToAnywhere",
+        "title":  "BusToAnywhere",
+        "chapters":  24,
+        "synopsis":  "Ben is a master of movement. Working at a massive fulfillment center, he turns the frantic scramble of sorting boxes into a Tai Chi form, becoming the most efficient worker on the floor. But in a world run by algorithms, perfection isn\u0027t enough. Fired for \"Time Off Task\" because he stopped to meditate after clearing his lane, Ben takes a bus to the furthest point fifty dollars will buy. Arriving in the dusty town of Pecos, Ben starts a new journey where his unique skills might be exactly what the vast, brown world needs. A tale of self-discovery, martial arts in mundane life, and finding your place when the system discards you."
+    },
+    {
         "id":  "CultivatorInNYC_Book1",
         "title":  "CultivatorInNYC - Book 1",
         "chapters":  30,
@@ -54,6 +60,18 @@
         "synopsis":  "Bruce is a six-foot-two EMT who believes he is a lethal weapon and a martial arts master. His partners, the weary veteran Sal and the sharp-witted Maya, view him with the exasperated affection usually reserved for a very large, very clumsy golden retriever. When a priority one call comes in for an armed robbery, Bruce sees it not as a dangerous medical emergency, but as his destiny to be a city hero. Join the hilarious and chaotic adventures of Unit 73\u0027s most dangerous (and deluded) medic!"
     },
     {
+        "id":  "NeverGoingBAck",
+        "title":  "NeverGoingBAck",
+        "chapters":  27,
+        "synopsis":  "After five years in prison for a joyride that turned into a felony, Pedro Rodriguez is finally free. Stepping out into the blinding Texas sun with forty-two dollars and a clear plastic bag of possessions, Pedro has a simple list of goals: a shower without shoes, a real steak, and the dignity of paying rent. Most of all, he wants to never go back. But the world outside can be as unforgiving as the world inside, and Pedro must fight to remain the man he wants to become. A gritty, realistic story of redemption and starting over."
+    },
+    {
+        "id":  "NoOrdinaryMage_Book1",
+        "title":  "NoOrdinaryMage - Book 1",
+        "chapters":  24,
+        "synopsis":  "On his twelfth birthday, Tobin receives his System Interface and discovers he has an Intelligence score of 12Ã¢â‚¬â€the golden threshold required to become a Mage in the kingdom of Oakhaven. Dreaming of silver robes and magical power, Tobin is eager to leave his life as a humble scrivener\\u0027s son behind. But his father cautions him that magic is a heavy discipline, not just a set of numbers. As Tobin spends his birthday transcribing dusty land deeds, he realizes that the path to becoming a mage is more difficult than he imagined. And at the end of the day, trouble comes knocking at the door with a fist instead of a scroll. Follow the beginning of Tobin\\u0027s magical journey!"
+    },
+    {
         "id":  "RenQuickfoot",
         "title":  "RenQuickfoot",
         "chapters":  26,
@@ -88,6 +106,12 @@
         "title":  "TannerSmith",
         "chapters":  44,
         "synopsis":  "Born to a legendary human blacksmith and a master elven mage, young Tanner Smith sees the world differently. While others see just metal and thread, Tanner sees the flows of Might and Magic. Taught by his grandfather that \"borrowed strength is false strength\", Tanner rejects powerful magical gifts to forge his own path. Follow the story of a young crafter who believes that if you didn\u0027t make it, you don\u0027t own it. A tale of self-reliance, unique magic, and the true power of creation!"
+    },
+    {
+        "id":  "TheThrill",
+        "title":  "TheThrill",
+        "chapters":  30,
+        "synopsis":  "Beth Sanders is a Compliance Officer who lives her life by a strict, boring schedule. The only part of the day she actually likes is her 6:00 AM run in Central Park, where she pushes her body to the limit and secretly wishes for a variable in the equationÃ¢â‚¬â€even a muggerÃ¢â‚¬â€to break the monotony. But when a real thrill presents itself, Beth might find that getting what she wished for is more dangerous than she ever imagined. A story of obsession, danger, and the search for excitement in a grey world!"
     },
     {
         "id":  "WayOfTheSpear",
