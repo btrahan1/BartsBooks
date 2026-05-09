@@ -50,7 +50,7 @@
     {
         "id":  "JackOfAllTrades",
         "title":  "JackOfAllTrades",
-        "chapters":  11,
+        "chapters":  10,
         "synopsis":  "Jack lives by a simple rule: good enough is, more often than not, perfect. He is the ultimate generalist in a world of specialists. Using the 80/20 rule, Jack can learn the basics of anything quicklyâ€”from fixing an espresso machine to changing brake pads or tuning a piano. When he\u0027s not helping his neighbors in Maplewood, he\u0027s navigating life with a calm, analytical mind. But when a local factory faces a crisis that the experts can\u0027t solve, Jack\u0027s unique synthesis of skills might be the only thing that can save the town\u0027s economy. A story of versatility, practicality, and the power of being \"pretty good\" at everything."
     },
     {
@@ -74,7 +74,7 @@
     {
         "id":  "LevelOneLeon",
         "title":  "LevelOneLeon",
-        "chapters":  52,
+        "chapters":  51,
         "synopsis":  "Leon is a Level 1 Farmer who is capped at level 1 but has incredible \"Cultivated\" strength and Ki control from years of doing chores and meditation. Surrounded by high-level adventurers who rely on the System for everything, Leon proves that hard work, skill, and understanding mechanics can overcome any level gap. A story about a humble farmer who is secretly the most competent person in the world, fighting \"hazards\" and proving that level isn\u0027t everything."
     },
     {
@@ -82,6 +82,12 @@
         "title":  "LoneWolfAndThePlow",
         "chapters":  23,
         "synopsis":  "Steven was a giant of a man who wanted nothing more than a quiet life on his farm. Possessing immense strength and a sharp intellect, he spent years \"toning it down\" to avoid frightening his neighbors. But when his sister is assaulted in a local tavern by an arrogant merchant\u0027s son, the performance ends. Revealing his true, terrifying power, Steven steps in to protect his family. After effortlessly disarming the local Commander of The Order, he invites the authorities to his farm for tea to discuss the law. A story of hidden power, family loyalty, and a man who just wants to be left alone."
+    },
+    {
+        "id":  "LordTomasTheFarmer",
+        "title":  "LordTomasTheFarmer",
+        "chapters":  2,
+        "synopsis":  "Tomas is a farm boy who needs to avoid conscription by finding an apprenticeship. But farming doesn\u0027t count! So his parents send him to Uncle Silas (\"The Grinder\"), a retired adventurer. Silas trains him brutally, helping him unlock skills like Grit, Dodge, and Danger Sense. Tomas proves to be a natural, evolving his class to Aegis Initiate and learning to control the rhythm of battle. He eventually goes to the army, becomes a legendary commander, and returns to build an Academy to train leaders. A story about a farm boy who becomes a master builder of men."
     },
     {
         "id":  "NeverGoingBAck",
@@ -110,7 +116,7 @@
     {
         "id":  "Rook2",
         "title":  "Rook2",
-        "chapters":  13,
+        "chapters":  12,
         "synopsis":  "Marcus \"Rook\" Riley is a broken weapon. A decorated soldier with severe PTSD, he sits on death row awaiting execution. But when government agents offer him a pardon in exchange for a suicide mission through an interdimensional portal, Rook acceptsâ€”on his own terms. On the other side lies a desolate world controlled by \"The Grey,\" psychic parasites that feed on traumatic memory. But the agents didn\u0027t realize that Rook\u0027s intense trauma would make him invisible to the predators. Armed with only his boots, a knife, and a hyper-analytical mind, Rook begins to map the world, rescue lost soldiers, and wage a private war against the dark. A gripping military sci-fi thriller about an anti-hero who finds his peace in a world of nightmares."
     },
     {
@@ -146,13 +152,13 @@
     {
         "id":  "TheBookKeeper2",
         "title":  "TheBookKeeper2",
-        "chapters":  29,
+        "chapters":  28,
         "synopsis":  "Nathaniel Weber is a master of probability. For years, he treated the casinos of Las Vegas as a solvable equation, winning millions as a card counter and advantage player. But when the house finally catches up and bans him for life, Nate is forced to calculate his next move. On a whim, he buys \"The Printed Page,\" a charming but failing used bookstore in a quiet Oregon coastal town. Applying his analytical mind to the chaotic world of bookselling, Nate builds a revolutionary AI recommendation system and integrates into the small-town community. A heartwarming \"competence porn\" story about a man who learns that some systems are built on heart, not just numbers."
     },
     {
         "id":  "TheNemoProtocol",
         "title":  "TheNemoProtocol",
-        "chapters":  25,
+        "chapters":  24,
         "synopsis":  "Captain Valery Korolenko has seen enough of the world\u0027s proxy wars. Taking command of the advanced Russian submarine *Belgorod*, he adopts the name \"Nemo\" and issues an ultimatum to the world\u0027s superpowers: stop fighting or face annihilation. To prove he\u0027s not bluffing, he fires a kinetic missile at Los Angeles and a tactical nuke at an uninhabited Arctic peak. Suddenly, the leaders of the \"Hexagon\" are forced to cooperate to solve the world\u0027s most intractable problemsâ€”from the war in Ukraine to tensions in Taiwan, the regime in North Korea, and the conflict in Gaza. A fast-paced, high-stakes geopolitical thriller that asks what it takes to force peace on a warring planet."
     },
     {
@@ -164,7 +170,7 @@
     {
         "id":  "TheUrbanRunner",
         "title":  "TheUrbanRunner",
-        "chapters":  23,
+        "chapters":  22,
         "synopsis":  "Tyler doesn\u0027t run for glory; he runs to pay the rent. By day, he\u0027s a high school senior navigating a world of boring lectures and overbearing coaches. By night, he\u0027s the \"Urban Runner\" for Saito\u0027s Noodle House, using his incredible agility and a custom-built AI routing system to make lightning-fast deliveries. When he quits the school\u0027s elite soccer team to work more hours, Coach Renner becomes obsessed with proving that \"Total Commitment\" beats Tyler\u0027s pragmatic efficiency. But when the two philosophies collide in the city tournament, Tyler\u0027s unique set of skills leads to a legend that neither of them expected. A story of family, grit, and the power of finding your own path."
     },
     {
@@ -176,13 +182,13 @@
     {
         "id":  "ThirdPlaceTim_Book2",
         "title":  "ThirdPlaceTim - Book 2",
-        "chapters":  40,
+        "chapters":  39,
         "synopsis":  "Tim arrives at the Royal Ki Academy as a charity case sponsored by House Vance. Surrounded by entitled nobles and hostile instructors, the former thief must navigate a system designed for the strong. But Tim has a secret weapon: his Copper Core and his pragmatic, survivor\u0027s mind. While others focus on flashy displays of power, Tim focuses on mechanics, logistics, and building a network of misfits. A story about reverse-engineering the nobility, finding leverage in the rules, and proving that a Copper Core can outlast the sharpest steel."
     },
     {
         "id":  "ThirdPlaceTim_Book3",
         "title":  "ThirdPlaceTim - Book 3",
-        "chapters":  22,
+        "chapters":  21,
         "synopsis":  "The Kingdom of Aethelgard and the Iron-Blood Empire are on the brink of war over a newly discovered region rich in Sun-Stone. To settle the dispute, they invoke the \"Trial of Sovereignty,\" sending their future generations to fight in a harsh pocket realm called the Shadow-Scar. Tim is field-promoted to Cadet Commander, leading a mixed battalion of his Academy misfits and elitist Royal Guards. Facing an army of mind-controlled thralls led by the cold and efficient Silas, Tim must prove that logistics, survival tactics, and empathy can defeat brute force and dark magic. A high-stakes military fantasy about the burden of command and the power of connection."
     },
     {

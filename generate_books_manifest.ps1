@@ -6,7 +6,7 @@ if (Test-Path $booksDir) {
     Get-ChildItem -Path $booksDir -Directory | ForEach-Object {
         $bookDir = $_
         # Exclude synopsis.md from chapter count
-        $mdFiles = Get-ChildItem -Path $bookDir.FullName -Filter *.md | Where-Object { $_.Name -ne "synopsis.md" }
+        $mdFiles = Get-ChildItem -Path $bookDir.FullName -Filter *.md | Where-Object { $_.Name -ne "synopsis.md" -and $_.Name -ne "notes.md" }
         
         if ($mdFiles.Count -gt 0) {
             # Read synopsis if it exists

@@ -7,7 +7,7 @@ for book_folder in os.listdir(books_dir):
     book_path = os.path.join(books_dir, book_folder)
     if os.path.isdir(book_path):
         for file in os.listdir(book_path):
-            if file.startswith("chapter_") and file.endswith(".md"):
+            if file.endswith(".md") and file != "synopsis.md" and file != "notes.md":
                 file_path = os.path.join(book_path, file)
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
