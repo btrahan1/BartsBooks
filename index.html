@@ -62,14 +62,24 @@
                     <h3 id="chapter-title">Chapter 1</h3>
                 </div>
                 <div class="header-actions">
-                    <!-- Future actions like search or bookmarks -->
+                    <button id="view-library" class="nav-btn">📚 Library</button>
                 </div>
             </header>
 
-            <div class="reader-container">
+            <div class="reader-container" id="reader-view">
                 <div id="reader-output" class="reader-output content-font">
                     <!-- Rendered Markdown goes here -->
                     <p class="loading">Select a chapter to begin reading...</p>
+                </div>
+            </div>
+
+            <div class="library-container hidden" id="library-view">
+                <div class="library-header">
+                    <h2>Library</h2>
+                    <p>Select a book to read its synopsis and chapters.</p>
+                </div>
+                <div class="library-grid" id="library-grid">
+                    <!-- Books will be loaded here -->
                 </div>
             </div>
 

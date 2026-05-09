@@ -20,6 +20,10 @@ const fontSizeSlider = document.getElementById('font-size');
 const themeDarkBtn = document.getElementById('theme-dark');
 const themeLightBtn = document.getElementById('theme-light');
 const bookSelector = document.getElementById('book-selector');
+const viewLibraryBtn = document.getElementById('view-library');
+const readerView = document.getElementById('reader-view');
+const libraryView = document.getElementById('library-view');
+const libraryGrid = document.getElementById('library-grid');
 
 // Initialize
 async function init() {
@@ -65,6 +69,11 @@ function setupEventListeners() {
     // Sidebar Toggle
     openSidebarBtn.addEventListener('click', () => sidebar.classList.add('open'));
     closeSidebarBtn.addEventListener('click', () => sidebar.classList.remove('open'));
+
+    // Library Toggle
+    viewLibraryBtn.addEventListener('click', () => {
+        toggleLibraryView();
+    });
 
     // Navigation
     prevBtn.addEventListener('click', () => {
@@ -216,6 +225,78 @@ async function loadChapter(chapterNum) {
 // Update UI state (font size, etc.)
 function updateUI() {
     document.documentElement.style.fontSize = `${currentFontSize}px`;
+}
+
+// Toggle Library View
+function toggleLibraryView() {
+    if (libraryView.classList.contains('hidden')) {
+        libraryView.classList.remove('hidden');
+        readerView.classList.add('hidden');
+        viewLibraryBtn.textContent = '📖 Reader';
+        renderLibrary();
+    } else {
+        libraryView.classList.add('hidden');
+        readerView.classList.remove('hidden');
+        viewLibraryBtn.textContent = '📚 Library';
+    }
+}
+
+// Render Library Grid
+function renderLibrary() {
+    libraryGrid.innerHTML = '';
+    
+    booksData.forEach(book => {
+        const card = document.createElement('div');
+        card.className = 'book-card';
+        
+        const title = document.createElement('h3');
+        title.textContent = book.title;
+        
+        const synopsis = document.createElement('p');
+        synopsis.textContent = book.synopsis || 'No synopsis available.';
+        
+        const footer = document.createElement('div');
+        footer.className = 'card-footer';
+        
+        const count = document.createElement('span');
+        count.className = 'chapter-count';
+        count.textContent = `${book.chapters} Chapters`;
+        
+        const readBtn = document.createElement('button');
+        readBtn.className = 'nav-btn';
+        readBtn.textContent = 'Read';
+        readBtn.addEventListener('click', () => {
+            selectBook(book.id);
+        });
+        
+        footer.appendChild(count);
+        footer.appendChild(readBtn);
+        
+        card.appendChild(title);
+        card.appendChild(synopsis);
+        card.appendChild(footer);
+        
+        libraryGrid.appendChild(card);
+    });
+}
+
+// Helper to select a book from library
+function selectBook(bookId) {
+    currentBook = bookId;
+    bookSelector.value = bookId;
+    
+    const selectedBook = booksData.find(b => b.id === currentBook);
+    totalChapters = selectedBook.chapters;
+    
+    bookTitleEl.textContent = selectedBook.title;
+    
+    generateChapterList();
+    loadChapter(1);
+    
+    // Switch back to reader view
+    libraryView.classList.add('hidden');
+    readerView.classList.remove('hidden');
+    viewLibraryBtn.textContent = '📚 Library';
 }
 
 // Run
