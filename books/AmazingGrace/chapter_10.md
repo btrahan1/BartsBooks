@@ -1,97 +1,79 @@
-﻿Chapter 10
+﻿## Chapter 10
 
-Adrian's face was alight with the purest form of professional joy. "A
-benefit concert," he repeated, the words tasting like victory. "For the
-Havenwood First Presbyterian Church. It's perfect. It's absolutely,
-divinely perfect." He was already seeing the headlines, feeling the
-industry buzz. *Prodigy Discovered in Small Town Church, Plays Benefit
-to Save Her Home Parish.* It was a story that wrote itself.
+Just as Adrian's impassioned, whispered words faded into the vastness of
+the sanctuary, the heavy side door creaked open. Pastor Dave stepped
+through, his presence immediately grounding the electrically charged
+atmosphere. He had not been eavesdropping, but he had felt the crescendo
+and the subsequent, stunned reaction, and knew his part was not yet
+finished.
 
-Pastor Dave was smiling, a look of profound pride and relief on his
-face. He saw his humble, gifted pianist, taking one small, brave step
-out into the world for the sake of the community she loved. It was
-everything he could have hoped for.
+He didn't walk to the front, inserting himself between them. Instead, he
+came to stand a few feet behind the piano bench, a quiet, solid presence
+at Mary's back. For once, he was the one standing a step behind. He had
+seen the power dynamic shift, and he understood his new role was not to
+lead, but to support. This was Mary's time.
 
-"No," Mary said.
+He looked at Adrian, who was still leaning on the piano, looking utterly
+lost, a man whose compass had just been shattered.
 
-The word was not loud. It was not angry. It was spoken with the same
-quiet finality with which she would end a hymn. It dropped into the
-triumphant atmosphere of the room and shattered it into a thousand
-pieces.
+"Mr.Â Cross," Pastor Dave said, his voice calm and steady as a ship's
+anchor. "I believe you've run into what we in the theology business call
+a 'beautiful problem.'"
 
-Adrian's smile froze, then evaporated. Pastor Dave's expression
-faltered, replaced by one of complete confusion.
+Adrian looked up, his expression a mixture of relief and helplessness.
+"Pastor, I..." he started, but words failed him again.
 
-Mary turned on the piano bench to face them both properly. She looked
-first at Adrian, her gaze direct and steady. "I am flattered that you
-would do that for our Church, Mr.Â Cross. It is a very generous thought."
-She then glanced at the pastor. "But my Mother would not see this as a
-fair deal."
+The pastor's gaze was kind, but clear. "Mary has a gift. That is not in
+question. The question is how to use it in a way that honors the gift,
+and the giver." He let that sink in for a moment before offering a
+solution, a bridge across the chasm that had opened between Adrian's
+world and Mary's.
 
-Adrian opened his mouth, but no sound came out. A fair deal? What was
-she talking about?
+"A concert," he said, the words simple and direct. He immediately saw a
+flicker of fear in Mary's eyes and held up a hand to pre-empt it. "No
+competitions, Mary. We all know Mary doesn't compete." He said it with
+such finality that it became a law of the room. "This wouldn't be for a
+prize or for judges. It would be an offering. A chance for people to
+come and listen. A fundraiser, perhaps. For the church roof, among other
+things."
 
-"And... I know you are a businessman," she continued, her focus back on
-Adrian. "You see an asset, and you look for a return on your investment.
-I understand that. It's your job."
+He turned his full attention to the woman at the piano, the one who now
+held all the power in the room. His voice softened.
 
-She sighed then, a deep, slow breath that seemed to carry the weight of
-a lifetime of quiet humility. She looked down at her own hands, resting
-in her lap, as if seeing them for the first time.
+"But, a concert... what do you think, Mary?"
 
-"I think," she said, her voice soft but clear, "it's time to accept that
-I might have some small talent."
+The word "concert" still felt alien and frightening on her tongue. It
+tasted of the recital halls of her childhood, of sterile stages and the
+jealous faces of other children. Her first instinct was to shrink away,
+to retreat back into the comfortable anonymity of Sunday service.
 
-The understatement was so profound, so utterly Mary Steepleton, that
-Adrian almost laughed.
+But then she felt the solid presence of Pastor Dave behind her. She saw
+the genuine, helpless awe on Adrian Cross's face. She thought of the red
+numbers in the ledger, stark and unforgiving. She looked up and saw the
+faint, brownish water stain on the ceiling, a slow-growing wound in the
+heart of her sanctuary.
 
-"And maybe," she went on, looking up again, her eyes shining with a new,
-terrifyingly clear purpose, "just once, we could share it for more than
-just our town?"
+*What would Mom do?* The question wasn't a question anymore. It was an
+answer. *She would help the Church.*
 
-She was no longer the passive discovery. She was the one setting the
-terms. She looked from Adrian's stunned face to Pastor Dave's bewildered
-one, as if seeking their permission for the monumental thought she was
-about to voice.
+This concert wouldn't be about her. It wouldn't be about showing off or
+winning a prize. It would be a tool, just like her Sunday playing. A
+tool to fix a roof. A tool to keep the lights on. A tool to help. Framed
+that way, it was not scary at all. It was simply a duty.
 
-"I've heard of a place," she said, the words spoken with a hesitant,
-almost childlike innocence that belied their staggering ambition. "A
-place in New York City."
+Mary's gaze shifted from the worn ivory keys to the distant water stain
+on the ceiling. She took a slow, deep breath.
 
-She paused, gathering her courage.
+"If you think it would help," she said, her voice quiet but firm,
+addressing the pastor but letting Adrian hear. "I suppose I could play a
+few songs for people."
 
-"I've heard of a place called... Carnegie Hall?"
+Adrian let out a breath he didn't realize he'd been holding for a full
+minute. He pushed himself off the piano, a new light in his eyes. The
+moral paralysis was gone, replaced by a surge of purpose. He wasn't a
+predator anymore. He was a producer. He was a partner.
 
-The two words hung in the sun-drenched, dusty air of the small-town
-sanctuary. They felt both impossibly large and absurdly out of place.
-
-Pastor Dave stared at her, his mouth slightly agape. He had been
-preparing himself for the possibility of Mary playing at the county
-fair. He was not, in any way, prepared for this.
-
-Adrian Cross, however, looked as though he had been struck by lightning.
-The shock was so complete, it bypassed his brain and went straight to
-his soul. He had come here to recruit a folk artist and had found a
-master. He had offered her a local charity gig, and she had countered
-with the single most prestigious concert stage on the planet.
-
-She hadn't demanded it. She hadn't said it with the arrogance of a diva.
-She had asked about it, like a child asking if it was possible to visit
-a star. And in that innocent, audacious question, Adrian saw the path
-forward. It was insane. It was impossible. It was the boldest, most
-brilliant, and most marketable idea he had ever heard in his entire
-life.
-
-He finally broke the silence, a slow, disbelieving laugh bubbling up
-from his chest. It was a laugh of pure, unadulterated joy.
-
-He looked at Mary, not as a talent, not as an asset, but as a true
-partner.
-
-"Ms.Â Steepleton," he said, his voice brimming with a newfound, fervent
-energy. "Forget the roof. We're going to buy the church a new steeple."
-
-This is absolutely the heart of her character. She's not just a
-competent musician; she's a competent *person* whose competence is
-rooted in a moral clarity that the business world can't comprehend.
+"A benefit concert," Adrian said, a wide, true smile breaking across his
+face. "For the Havenwood First Presbyterian Church. It's perfect. It's
+absolutely, divinely perfect."
 

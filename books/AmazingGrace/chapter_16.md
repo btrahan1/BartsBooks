@@ -1,4 +1,4 @@
-﻿Chapter 16
+﻿## Chapter 16
 
 The audition room was not a room at all; it was a small, acoustically
 perfect concert hall nestled deep within the Carnegie building. It was a
@@ -9,10 +9,10 @@ As Mary walked from the wings toward the magnificent Steinway grand
 piano in the center of the stage, to say she was nervous was an
 understatement. Every fiber of her being screamed that she did not
 belong here. The stage lights were blinding, the polished wood floor
-reflected her image like a dark mirror, and the silence from the handful
-of people in the theater seats was a crushing weight. This was the
-recital stage of her childhood nightmares, magnified a thousand times
-over. Her hands were cold, her stomach a tight knot of dread.
+reflected her image like a dark mirror, and the quiet from the handful
+of people in the theater seats felt like a physical pressure. This was
+the recital stage of her childhood nightmares, magnified a thousand
+times over. Her hands were cold, her stomach a tight knot of dread.
 
 Then, she looked at 'the Committee.' They were seated in the center of
 the third row. Four of them were exactly as she had pictured: stern,
@@ -76,12 +76,9 @@ the final, soaring crescendo was not just the sound of healing, but of a
 town, a congregation, a family, coming together to build something new
 and whole from the broken pieces.
 
-When the final, peaceful chord faded into the perfect silence of the
-hall, four members of the committee were still staring, their pens
-hovering uselessly over their clipboards.
+When the final, peaceful chord faded into the rafters, four members of
+the committee were still staring, their pens hovering uselessly over
+their clipboards.
 
 The fifth, Arthur Pendleton, was slowly and quietly clapping.
-
-Perfect. This is the collision of her worldview and theirs. Simple,
-honest art versus intellectual critique.
 

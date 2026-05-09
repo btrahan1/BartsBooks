@@ -1,12 +1,12 @@
-﻿Chapter 17
+﻿## Chapter 17
 
 The sound of Arthur Pendleton's solitary, deliberate clapping echoed in
-the profound silence of the hall. It was not the thunderous applause of
-a crowd but something far more potent: a single expert's acknowledgment
-of another. The other four committee members remained motionless, their
-expressions a mixture of shock, confusion, and something akin to
-intellectual outrage. They had come to judge a technical performance and
-had instead been subjected to a deeply personal emotional experience.
+the room. It was not the thunderous applause of a crowd but something
+far more potent: a single expert's acknowledgment of another. The other
+four committee members remained motionless, their expressions a mixture
+of shock, confusion, and something akin to intellectual outrage. They
+had come to judge a technical performance and had instead been subjected
+to a deeply personal emotional experience.
 
 The clapping stopped. Arthur rested his hands on his lap, a small,
 satisfied smile on his face, content to let his colleagues wrestle with
@@ -81,11 +81,7 @@ committee, her expression open and honest.
 
 And for the next fifteen minutes, in the most important audition of her
 life, in a multi-million-dollar concert hall in front of the most
-powerful people in her field, Mary Steepleton sat in complete silence
-and simply read the music, her head bowed, just as she had done in the
-quiet sanctuary of her home church. The committee could do nothing but
-wait.
-
-This. This is the moment of truth. It's not just an audition anymore;
-it's a declaration. Brilliant.
+powerful people in her field, Mary Steepleton sat in complete quiet and
+simply read the music, her head bowed, just as she had done in the
+sanctuary of her home church. The committee could do nothing but wait.
 

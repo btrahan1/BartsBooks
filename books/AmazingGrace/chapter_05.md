@@ -1,108 +1,101 @@
-﻿Chapter 5
+﻿## Chapter 5
 
-The church was empty when Adrian Cross walked in on Thursday afternoon.
-The cavernous silence was a stark contrast to the communal warmth of
-Sunday morning. Sunlight, thick with dancing motes of dust, streamed
-through the stained-glass windows, bathing the pews in jewel-toned
-light. For a moment, it felt like he had intruded upon a private, sacred
-space.
+Pastor Dave's office was less an office and more a comfortable den that
+happened to contain a desk. Books overflowed from shelves, stacked in
+precarious towers on the floor. A faded photograph of his smiling wife
+and two grown children sat on the corner of the desk, and the air
+smelled of old paper, coffee, and the faint, sweet scent of his pipe
+tobacco. It was Mary's favorite room in the church, a place of calm
+counsel and quiet wisdom.
 
-Mary was waiting for him. She wasn't sitting in a pew or standing
-nervously by the door. She was on the piano bench, her hands resting on
-the closed keyboard lid, as if it were an extension of herself. She was
-the one who had suggested they meet here, of course. It was her
-sanctuary, her territory.
+Today, it did not feel calm.
 
-She had prayed the night before, kneeling by her bed as she had every
-night of her life. She'd asked for clarity, for a sign, for some whisper
-of guidance. But no answers came, no divine insight pierced the quiet of
-her room. There was only the steady, familiar weight of responsibility.
-So, she had fallen back on the one question that had guided every major
-decision in her adult life: *What would Mom do?*
+He sighed, a long, weary exhalation that seemed to carry the weight of
+the whole building. He ran a hand over his tired face, his fingers
+tracing the deep lines around his eyes. On the desk between them lay the
+church's financial ledger, open to the quarterly summary.
 
-The answer was immediate and simple. Her mother would not think of fame,
-or money, or a life beyond Havenwood. She would think of the water stain
-on the ceiling, of the dwindling pledge numbers in the ledger. She would
-help the Church.
+Mary was also looking at the numbers. She didn't understand numbers the
+way she understood music. To her, a balance sheet was a foreign
+composition, full of stark, rigid notes with no harmony, no feeling. But
+some things were universal. Even she knew a black number was good, and a
+red number, bracketed and stark, was very, very bad. The page was a sea
+of red.
 
-Some may have seen Mary Steepleton as soft, a gentle soul who played
-gentle music. Adrian Cross, with his sharp suit and sharper eyes, almost
-certainly did. He likely saw a naive, small-town woman he could easily
-dazzle with promises of a world she couldn't imagine. He was about to
-learn that the softest things in the world---water, wind, and
-music---could also be the most powerful.
+"How bad is it, Pastor Dave?" she asked, her voice barely a whisper.
 
-He approached, his footsteps echoing in the stillness. He had a
-briefcase in one hand and a confident, disarming smile on his face,
-ready to launch into a well-rehearsed pitch. He never got the chance.
+He didn't try to sugarcoat it, but he softened the blow with his tone.
+"It's not 'lights off tomorrow' bad, Mary. Not yet. But it's... leaning
+that way." He tapped a finger on the page. "Pledge offerings are down
+another six percent this quarter. The endowment fund took a hit in the
+market. Mrs.Â Gable's bake sale was lovely, as always, but it's a finger
+in a dyke that's springing new leaks every day."
 
-"Mr.Â Cross, please have a seat," Mary said, her voice clear and calm. It
-did not carry a hint of nervousness. She gestured with her head toward
-the front pew as she turned on the bench, her posture poised.
+He leaned back in his creaking leather chair. "The real problem," he
+said, gesturing toward the ceiling, "is the roof. We had that big storm
+last month? Well, it found a weak spot over the fellowship hall. The
+estimate to repair it properly is... well, it's a number we just don't
+have."
 
-He hesitated for a fraction of a second, thrown off his rhythm, before
-complying. He sat, placing his briefcase beside him, a king temporarily
-surrendering his throne room to a local commoner.
+Mary's eyes went to a faint, brownish water stain blooming in the corner
+of his office ceiling. She thought of the sanctuary, of the beautiful
+arched windows and the worn pews. The idea of it all falling into
+disrepair, of rain seeping into the heart of their community, made her
+feel physically ill.
 
-Mary's hands moved from the lid to the keys. A low, searching melody
-began to fill the sanctuary. It wasn't a hymn he recognized, but an
-improvisation, a piece of music being born right there in the dusty
-sunlight. It was beautiful and achingly sad, yet threaded with a
-resilient, unbreakable strand of hope.
+"What will we do?" she asked.
 
-"You have until I finish this song to tell me what you want," she said,
-her eyes closed, her focus entirely on the music blooming beneath her
-fingers.
+The pastor looked at her, his expression full of a deep, paternal
+affection and sorrow. "We pray. We have faith. And we try to think of
+something." He paused, looking at his hands. "You know, Mary, you are
+the heart of this place. Your music... it's the one thing that keeps
+spirits up, even when the news is bad. It's the finest thing we have to
+offer."
 
-Adrian opened his mouth to speak, but she continued, her voice weaving
-through the notes like another instrument.
+The words, meant to comfort, landed differently today. They echoed what
+the man in the library had said. *Impressive. Sophisticated.* The memory
+of the encounter made her reach for her canvas tote bag, which was
+resting by her chair. Her fingers fumbled inside until they found the
+stiff, expensive piece of cardstock she had tucked into a side pocket.
+She pulled it out and placed it on the desk, on top of the grim, red
+numbers.
 
-"And when I'm done, you will have a decision to make," she stated, a
-complex chord underscoring the shift in power. Her hands flitted across
-the keys, and a soft, breathy hum escaped her lips, harmonizing with the
-piano. "You get to hear this one song for free."
+**Adrian Cross** **A&R, Vanguard Artist Group**
 
-The music swelled, growing more intricate, more emotionally charged.
-Adrian found himself leaning forward, utterly captivated, his sales
-pitch dissolving in his mind.
+Pastor Dave picked up the card, his brow furrowed. He read the name and
+the title, then looked at Mary, his eyes asking the question his mouth
+did not.
 
-"And if you want to hear another one," Mary continued, her voice still
-soft but now edged with a steel he had not anticipated, "I request that
-you make a donation to this Church."
+"He was at the service Sunday," Mary explained quietly. "He came to the
+library yesterday. He... he said he was a talent scout. He said my music
+wasn't just 'Church Music.'" She said the last part with a small,
+incredulous shake of her head, as if relaying an absurdity. "He wants to
+talk to me about my future."
 
-She let that hang in the air for a few measures, the music a cascade of
-brilliant, rolling arpeggios.
+Pastor Dave stared at the card, then back up at Mary's earnest, worried
+face. A slow, sad smile touched his lips. He wasn't surprised. Not in
+the least. He had been waiting for a moment like this for years,
+dreading it and, if he were honest with himself, expecting it. He had
+always known her gift was too large to remain hidden in Havenwood
+forever.
 
-"The Pastor's office is just behind me to the right," she said, her
-hands beginning to slow the tempo, bringing the piece toward its
-inevitable, gentle conclusion. "You can discuss the particulars of the
-donation with him. Once you've spoken to Pastor Dave, and he's
-satisfied, I will play you another one."
+"Well," he said, his voice gentle. "It was only a matter of time before
+someone from the outside noticed what we've known all along."
 
-The final notes of the song began to fall like soft rain. She played a
-final, lingering chord that seemed to ask a question. She turned her
-head slightly, though her eyes remained closed.
+"But what does he want?" Mary asked, the question laced with anxiety. "I
+don't want a future. I like my future right here."
 
-"Deal?"
+The pastor placed the card back on the desk, his gaze moving from Mary's
+face, to the business card, to the red ink of the ledger beneath it. He
+saw the leaking roof, the dwindling funds, and the extraordinary,
+untapped gift of the young woman sitting before him. He saw a problem
+and, perhaps, a terrifying, complicated, and heaven-sent solution.
 
-The last vibration of the chord faded into the vast silence of the
-church. Mary's hands remained on the keys, her head bowed. She did not
-look at him. She did not fidget. She waited.
+He took a deep breath. "I don't know what God's plan is in all this,
+Mary. I truly don't." He slid the card back toward her. "But the Lord
+has a funny way of opening doors when we only see walls."
 
-Adrian Cross sat motionless in the front pew. The script he had
-prepared, the contract points, the vision he was about to sell her---it
-all felt cheap and inadequate. He had come here to assess a product. He
-had just been shown a soul. He had expected a negotiation with an
-amateur; he had just been masterfully outmaneuvered by an artist who
-knew her own worth, even if she didn't measure it in dollars.
-
-Slowly, a smile spread across his face. It was not the slick smile of a
-salesman, but a look of genuine, unadulterated respect.
-
-He stood up, leaving his briefcase on the pew. He didn't say a word. He
-simply turned and walked, his crisp footsteps echoing with new purpose,
-toward the pastor's office.
-
-This is magnificent. The power has completely shifted. She's not the
-product; she's the gatekeeper to the art.
+He looked her straight in the eye, his expression both serious and kind.
+"I would never tell you what to do. Your heart is your own. But maybe...
+maybe you should hear what the man has to say."
 

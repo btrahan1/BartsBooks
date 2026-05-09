@@ -1,15 +1,12 @@
-﻿Chapter 14
+﻿## Chapter 14
 
-Julian sighed, a long, weary sound that was the polar opposite of
-Adrian's impassioned zeal. He swiveled in his chair, turning to face the
-panoramic view of the city as if the answer lay somewhere in the grid of
-streets below.
+Julian sighed, a long, weary sound. He rubbed his temples.
 
-"Well, Adrian, it's not up to me," he said, his voice returning to its
-familiar, pragmatic tone. "Even if I believed you---and your little
-outburst has me leaning that way---I don't have the power to just hand
-you the keys to Carnegie Hall. She will need to audition. She will need
-to convince 'them' that she can play."
+"Well, Adrian, it's not totally up to me," he said, his voice returning
+to its familiar, pragmatic tone. "Even if I believed you---and your
+little outburst has me... intrigued---I don't have the power to just
+hand you the keys to Carnegie Hall. She will need to audition. She will
+need to convince 'them' that she can play."
 
 He said the word 'them' with a kind of grim reverence. 'Them' was the
 Carnegie selection committee. THE committee. A shadowy cabal of old
@@ -98,21 +95,23 @@ Arthur Pendleton paused, his fork halfway to his mouth. "Well, that's a
 bit more pleasant than the usual rubbish they play in here," he
 muttered.
 
-By the second verse, Mary's left hand was weaving a complex, gorgeous
-counter-melody. The sound from the Fazioli was breathtaking, richer and
-more resonant than the old Baldwin, and she used its full power, her
-playing swelling to fill the enormous space. The clatter from the food
-court began to subside. Teenagers stopped scrolling on their phones and
-looked up. A mother with a crying toddler found him suddenly silent, his
-little head cocked, listening.
+By the second verse, Mary's left hand was building a conversation. It
+started low, answering the melody with deep, resonant questions, then
+climbed higher, harmonizing with the tune in a way that felt both
+ancient and startlingly new. The sound from the Fazioli was
+breathtaking, richer and more resonant than the old Baldwin, and she
+used its full power, her playing swelling to fill the enormous space.
+The clatter from the food court began to subside. Teenagers stopped
+scrolling on their phones and looked up. A mother with a crying toddler
+found him suddenly quiet, his little head cocked, listening.
 
 Adrian said nothing. He just watched Arthur's face. The initial
 annoyance had melted into professional curiosity.
 
 By the third verse, the music was a tidal wave of glorious, soaring
-sound. Mary was no longer just playing a hymn; she was testifying. She
-was pouring every ounce of her faith---in her music, in her God, in her
-purpose---into the keys.
+sound. Mary was no longer just playing a hymn; she was highlighting the
+architecture of the song itself. She was pouring every ounce of her
+faith---in her music, in her God, in her purpose---into the keys.
 
 The atrium had fallen almost completely silent. A crowd was forming, a
 circle of mesmerized shoppers and store clerks standing twenty feet from
@@ -128,7 +127,7 @@ The final verse was a whisper, a gentle, humble return to the simple
 melody, before the final, triumphant chord echoed through the marble
 hall.
 
-For a beat, there was absolute silence.
+For a beat, the only sound was the distant hum of the escalator.
 
 Then, the atrium erupted. It wasn't polite applause; it was a
 spontaneous, heartfelt ovation from a hundred strangers who had just
@@ -156,8 +155,4 @@ Arthur held his gaze for a long, terrifying moment, then leaned back.
 
 "And find out when Ms.Â Steepleton is available to play for the full
 board. Next week."
-
-This is a brilliant follow-up. It's the moment the "heist" is over, and
-now they have to face the real, terrifying challenge. The dialogue here
-is perfect.
 

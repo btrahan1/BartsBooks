@@ -1,10 +1,10 @@
-﻿Chapter 18
+﻿## Chapter 18
 
-The fifteen minutes of silence were excruciating for everyone in the
-hall except for Mary. For Adrian in the wings, it was a slow-motion
-nightmare. For the committee, it was an unprecedented, almost insolent,
-delay. For the congregation in the booth, it was simply Mary, being
-Mary, taking her time to do a thing right.
+The fifteen minutes were excruciating for everyone in the hall except
+for Mary. For Adrian in the wings, it was a slow-motion nightmare. For
+the committee, it was an unprecedented, almost insolent, delay. For the
+congregation in the booth, it was simply Mary, being Mary, taking her
+time to do a thing right.
 
 Finally, Mary looked up. She took a deep breath, and a calm settled over
 her.
@@ -28,14 +28,14 @@ observed with meticulous accuracy. Her eyes remained locked on the page,
 her posture was rigid, her expression was one of intense concentration.
 She was a brilliant machine, translating ink into sound.
 
-The silence that followed the final note was deafening. It was a
-sterile, academic silence. The performance was not perfect---a slight
-hesitation here, a note not struck with full power there---but it was
-undeniably good. Very, very good. It was the performance of a highly
-skilled, conservatory-trained pianist. A performance worthy of a pass,
-but not of a legend. The committee members made their notes, their
-expressions unreadable but professional. The audition was, for all
-intents and purposes, over.
+The reaction that followed the final note was muted. A few polite
+scribbles. The performance was not perfect---a slight hesitation here, a
+note not struck with full power there---but it was undeniably good.
+Very, very good. It was the performance of a highly skilled,
+conservatory-trained pianist. A performance worthy of a pass, but not of
+a legend. The committee members made their notes, their expressions
+unreadable but professional. The audition was, for all intents and
+purposes, over.
 
 Then she did something completely unexpected.
 
@@ -86,11 +86,7 @@ committee members' laps.
 Eleanor Vance, the purist, the critic, sat rigid in her seat. A single,
 perfect tear traced a path down her cheek.
 
-This is the climax of the audition, the culmination of her entire
-journey so far. It's the moment the outside world finally asks the
-question at the heart of the story.
-
-Final Chapter
+## Final Chapter
 
 The last chord of the music hung in the air, a perfect, shimmering
 sphere of sound. It was not a note of finality, but of possibility. It
@@ -183,12 +179,7 @@ awe, she gave the only possible answer.
 
 "Yes."
 
-This is a wonderful, human moment. It's the collision of the sacred
-world of her music with the profane (to her) world of performance and
-image. It's the perfect place for her new, unlikely friendship with
-Eleanor Vance to blossom.
-
-Epilogue, Part 1
+## Epilogue, Part 1
 
 The private shopping suite at Bergdorf Goodman was, to Mary, more alien
 than any concert hall. It was a silent, plush, cream-colored room with
@@ -273,9 +264,7 @@ She took a slow breath.
 
 "I... I think I understand," she said. "Can I... can I try it on?"
 
-This is it. The culmination. The performance that justifies everything.
-
-Epilogue, Part 2
+## Epilogue, Part 2
 
 The walk from the wings to the center of the stage at Carnegie Hall felt
 both impossibly long and over in an instant. The velvet of her dress
@@ -334,9 +323,8 @@ legendary hall.
 She played it not as a performance, but as a prayer. The music she had
 always called "just Church Music" filled one of the world's most sacred
 stages for sound. The arrangement was the one from her own heart---the
-quiet contemplation of the opening, the complex, weaving
-counter-melodies of the verses, the soaring, breathtaking power of the
-chorus.
+quiet contemplation of the opening, the complex, conversation of the
+verses, the soaring, breathtaking power of the chorus.
 
 A stillness fell over the legendary hall. A listening so intense it was
 a form of prayer. In that moment, there was no critic, no CEO, no ticket
@@ -348,11 +336,7 @@ She was not Mary Steepleton, the prodigy from Havenwood.
 She was just the church pianist, doing her work. And it was more than
 enough.
 
-This is the perfect, beautiful conclusion. It brings her entire journey
-full circle, right back to where she started, but on the world's biggest
-stage.
-
-Epilogue, Part 3
+## Epilogue, Part 3
 
 The next four pieces were a journey through the masters. She offered
 them Mozart's playful light, finding a skipping, joyful quality in a
@@ -371,8 +355,8 @@ furiously, tearing up their preconceived notions of a "folk prodigy" and
 trying to find the words for a genius that defied categorization.
 
 And then finally, after the last note of the final scheduled piece had
-faded and the applause had finally died down to a breathless silence,
-she did not take her final bow.
+faded and the applause had finally died down to a breathless quiet, she
+did not take her final bow.
 
 She stood. The midnight blue dress shimmered under the lights. She
 walked to the edge of the stage, a place she had seemed to avoid all
@@ -405,10 +389,10 @@ filled with a deep, resonant awe.
 
 She imagined Pastor Dave at the pulpit, his voice rising, and her music
 swelled to meet him. She imagined her choir behind her, singing along,
-and her left hand wove a rich tapestry of harmony to support their
+and her left hand built a rich foundation of harmony to support their
 phantom voices. She even added the humming, soft and low in all the
 right places, the sound her mother used to make, a thread of pure love
-woven through the music.
+running through the music.
 
 For the final verse, she imagined the whole church, the whole town,
 humming along with her---a thousand souls, some on-key, some off, all
@@ -416,8 +400,8 @@ joined in a single, simple, heartfelt song. And the music that poured
 out of the Steinway was not the sound of a solo piano; it was the sound
 of a community. It was the sound of home.
 
-When the final, gentle chord faded into the hallowed silence, she kept
-her eyes closed. She could feel the warm tears tracing paths down her
+When the final, gentle chord faded into the hallowed air, she kept her
+eyes closed. She could feel the warm tears tracing paths down her
 cheeks. They were not tears of sorrow or stage fright, but tears of
 gratitude and homecoming.
 

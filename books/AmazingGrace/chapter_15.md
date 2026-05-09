@@ -1,4 +1,4 @@
-﻿Chapter 15
+﻿## Chapter 15
 
 Adrian met Mary near the west entrance, away from the lingering, buzzing
 crowd. She was standing by a potted ficus tree, clutching her tote bag,
@@ -42,7 +42,7 @@ one, but one she understood.
 audition. "It will show them your artistry, your unique voice. But the
 second piece... the second piece will be from them."
 
-He saw the question in her eyes. "I don't know what it will be," he
+He saw the question in her eyes. "I don't know much about it," he
 admitted. "But I can tell you it won't be easy. It will be a
 sight-reading test. Something obscure, something technically brutal.
 They will be testing your skill, your training, your nerve."
@@ -61,8 +61,8 @@ Presbyterian. She thought of the worn, familiar keys of her mother's
 spinet. She thought of the sleek, responsive keys of the Fazioli she had
 just played, an instrument that sang back to her.
 
-She sat in contemplation for a long, silent time. Adrian didn't rush
-her. He just waited.
+She sat in contemplation for a long, quiet time. Adrian didn't rush her.
+He just waited.
 
 Finally, she turned back to him, her expression calm and centered.
 
@@ -77,7 +77,4 @@ She met Adrian's anxious gaze with a look of profound, unshakable
 honesty.
 
 "All I can say is that I will just play it the only way I know how."
-
-This is a beautiful, powerful image. The arrival of her community is the
-perfect catalyst for her confidence. Let's write this pivotal scene.
 

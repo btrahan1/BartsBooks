@@ -1,4 +1,4 @@
-﻿Chapter 13
+﻿## Chapter 13
 
 The office of Julian Vance, CEO of Vanguard Artist Group, was a world
 away from the Havenwood church. It was a glass-walled box on the 48th
@@ -70,23 +70,37 @@ a true believer.
 A full minute passed. The tension in the room was a living thing.
 
 Finally, Julian slowly took off his glasses and placed them on the desk.
-He leaned forward, the corporate bluster gone, replaced by a raw,
-genuine curiosity. He looked at the transformed man before him, and he
-whispered the only question that mattered.
+All the theatrics were gone. He looked at Adrian like he was trying to
+solve a very complicated math problem.
 
-"Adrian... is she really that good?"
+"You're serious," Julian said. It wasn't a question. "You're risking
+your career. You're risking *my* reputation. For a church pianist."
 
-Adrian's arm slowly lowered. The violent anger drained away, leaving
-behind a profound, unshakable certainty. He sank back into his chair,
-his eyes still locked on his boss's.
+"I am," Adrian said, not backing down an inch.
 
-"Good isn't the right word, Julian," he said, his voice now quiet and
-exhausted, but filled with a reverence that was more powerful than his
-rage. "The word 'good' doesn't apply."
+Julian stared at him for a long time. He picked up his phone, tapped a
+few keys, and then set it back down face up.
 
-He leaned forward, his elbows on his knees. "She's not 'good.' She's...
-necessary."
+"I just checked the calendar," he said, his voice terrifyingly neutral.
+"There's a cancellation at the Hall in three weeks. A Russian orchestra
+lost their funding."
 
-This is a fantastic, high-stakes, "heist movie" kind of plan. It's the
-perfect way to test her in the real world. Let's write that scene.
+He looked back up at Adrian. "If we book it, and she bombs... you're
+done. You know that? You're out. No severance, no recommendation."
+
+"Register it," Adrian said. "Charge the deposit to my personal card if
+you have to."
+
+Julian leaned back, a small, cold smile touching his lips. "I don't need
+your money, Adrian. I need your judgment. And right now, I'm terrified
+yours has been compromised by... sentiment." He stood up and walked to
+the window. "But I've never known you to be suicidal."
+
+He turned back. "Is she really that good?"
+
+Adrian sank back into his chair, the adrenaline draining away, leaving
+him exhausted.
+
+"Good isn't the right word, Julian," he said quietly. "She's not 'good.'
+She's... necessary."
 
