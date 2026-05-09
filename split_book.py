@@ -1,8 +1,8 @@
 import os
 import re
 
-file_path = r"C:\Users\bartt\.gemini\antigravity\scratch\ScrollOfAThousandTruths.md"
-output_dir = r"C:\Users\bartt\.gemini\antigravity\scratch\ScrollOfAThousandTruths"
+file_path = r"C:\Users\bartt\.gemini\antigravity\scratch\LoneWolfAndThePlow.md"
+output_dir = r"C:\Users\bartt\.gemini\antigravity\scratch\LoneWolfAndThePlow"
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
@@ -10,8 +10,8 @@ if not os.path.exists(output_dir):
 with open(file_path, 'r', encoding='utf-8') as f:
     content = f.read()
 
-# Split by "### []{#anchor}Chapter"
-chapters = re.split(r'(?m)^###\s+\[\]\{#anchor\}Chapter\s+', content)
+# Split by "# []{#anchor}Chapter" or "### []{#anchor}Chapter"
+chapters = re.split(r'(?m)^#+\s+\[\]\{#anchor\}Chapter\s+', content)
 
 print(f"Found {len(chapters) - 1} chapters.")
 
