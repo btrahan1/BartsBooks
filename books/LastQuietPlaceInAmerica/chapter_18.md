@@ -1,68 +1,90 @@
-# Chapter 18: The showdown was chaos. A cheerful, well-organized, friendly chaos. For two hours, the citizens of Greenville milled around the town hall lawn, moving from table to table with small plastic cups and even smaller plastic spoons. They tasted, they deliberated, they gossiped.
+# Chapter 18
 
-Our table was a runaway success. Buddy was the greatest marketing tool ever conceived. People came for the dog and stayed for the chili. He sat beside our table like a furry, four-legged king, accepting pats and praise with a quiet dignity, his tail a constant, metronomic beat of goodwill.
+The morning of the cook-off was clear and cold, the sky a crisp,
+brilliant blue. The chili, after simmering for another hour under
+Eleanor's orders and then resting overnight in the fridge, was a
+masterpiece. Its aroma had permeated every corner of my small house, a
+constant, delicious reminder of the mission ahead.
 
-***
+We loaded the precious cargo into the back of my rental car. The large
+stockpot was wedged in with towels to keep it from sliding, its lid
+securely taped down. It felt like transporting a live bomb.
 
-Error: Gemini API request failed: {
-  "error": {
-    "code": 503,
-    "message": "The model is overloaded. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
+"Okay," I said to Kyle, running through the final checklist. "We have
+the chili, the ladle, the extension cord for the hot plate, and the
+cornbread."
 
+"And the secret weapon," Kyle added, a grin splitting his face.
 
-***
+He opened the back door of the car. Buddy, who had been sitting
+patiently on the lawn, hopped in without hesitation and settled onto a
+blanket, his tail thumping a happy rhythm against the seat. I had
+officially lost all control of operational security. Our culinary
+insurgency now had a mascot.
 
-He'd complained that the inn's Wi-Fi wasn't fast enough for his "creative process." He'd sent back a perfectly good steak Peggy had cooked for him the night before, claiming it was "pedestrian." He'd referred to Will's hardware store as a "quaint little relic." But the final sin, the one that had truly curdled the town's collective goodwill, was the subject of his book. He'd told Brenda, when she'd tried to welcome him, that he was writing a satirical novel about the "charming simpletons of rural America."
+The drive to the town hall was a five-minute journey that felt like a
+presidential motorcade. I drove at a crawl, my eyes scanning for
+potholes, my hands gripping the steering wheel. Kyle sat in the
+passenger seat, nervously tapping his fingers on his knees. Buddy sat in
+the back, his head sticking out the window, his ears flapping in the
+wind.
 
-He wasn't visiting. He was dissecting. And everyone in town knew it.
+And that's when it started.
 
-Just as Peggy was finishing her report, the bell on the diner door clanged. And in he walked.
+A woman jogging on the sidewalk looked over, saw the dog, and her face
+lit up. "Hey, Buddy!" she called out, waving.
 
-Julian Croft looked exactly as I'd pictured him. Expensive leather jacket, perfectly styled hair, a look of bored disdain on his face. He scanned the room, his eyes dismissing the locals, before taking a booth near the front.
+A few seconds later, we passed the hardware store. Will was outside
+sweeping the sidewalk. He looked up, saw us, and gave a thumbs-up. "Go
+get 'em, boys! Hi, Buddy!"
 
-Peggy sighed. "Showtime," she muttered, and went to take his order.
+At the stop sign by the grocery store, Sarah the cashier was getting
+into her car. She honked her horn twice and yelled out the window, "Good
+luck! You look happy, Buddy!"
 
-I watched the interaction. He didn't look at her, just waved a dismissive hand at the menu. His voice was loud, carrying across the room. "Just bring me a coffee. Black. And make sure the cup is clean this time."
+"Hey, Buddy." "Morning, Buddy!" "Oh, look, there's Buddy!"
 
-Peggy's back went rigid, but she just nodded and walked away.
+Over and over, a continuous, rolling wave of greetings, all directed at
+the grinning furball in my backseat. I was just the chauffeur. Kyle was
+just the sidekick. The real star, the face of our entire operation, was
+a scruffy mutt of indeterminate lineage.
 
-I tried to ignore him. *This wasn't my problem. This was a local issue, a temporary irritant. I was just a resident. A quiet man with a dog.*
+I just shook my head, my eyes fixed on the road, and tried not to smile.
+I was a man who had moved through cities of millions without a single
+person knowing his name. Now, I couldn't drive three blocks without the
+entire population greeting my dog. The sheer, relentless friendliness of
+it all was eroding my defenses, chipping away at the stone walls I had
+so carefully built. A genuine, unfamiliar warmth was spreading through
+my chest.
 
-But then, Croft's gaze fell on Buddy, who had gotten up to stretch. The writer's lip curled into a sneer.
+We pulled up to the town hall. It was a stately old brick building, and
+the lawn in front was already bustling with people. Tents were set up,
+crockpots were being plugged in, and the air was thick with the
+competing smells of a dozen different chilis. At the center of it all
+was a large, professionally printed banner: MAYOR THOMPSON'S 4TH ANNUAL
+CHILI SHOWDOWN. The man himself was already there, shaking hands and
+smiling for a photo, a large, smug-looking trophy on the table beside
+him.
 
-"Good Lord," he said loudly, to no one in particular. "Do you people actually allow *livestock* in your dining establishments?"
+This was the battlefield.
 
-The diner went quiet. Every fork stopped midway to a mouth. Will stopped stirring his coffee. Peggy froze, the pot in her hand.
+We unloaded our gear. Kyle was a nervous wreck, his hands trembling
+slightly as he carried the pot. I felt a strange calm settle over me. I
+had been in far more dangerous situations. The stakes here were just as
+high in their own way, but the consequences were... nicer.
 
-The word hung in the air. *Livestock.* He hadn't just insulted a dog. He had insulted the town's champion. He had insulted Buddy.
+As we set up our station---a simple folding table between a woman with a
+white chicken chili and a man with a five-alarm concoction that smelled
+like pure capsaicin---I felt a wet nose nudge my hand.
 
-A cold, familiar calm settled over me. *The quiet I had cultivated for a decade, the stillness of a predator, returned. But it wasn't for a contract. It wasn't for a kill. It was for a dog.*
+I looked down. Buddy was sitting by my leg, looking up at me with those
+deep, knowing eyes, as if to say, *You got this.*
 
-I didn't raise my voice. I didn't have to. The silence in the room amplified my words.
+I reached down and scratched him behind his good ear.
 
-"He's not livestock."
+"Okay, Buddy," I murmured. "Let's go win a chili cook-off."
 
-Croft turned his head, looking at me for the first time. He saw a man in a worn flannel shirt, a guy who looked like he fixed things for a living. He sized me up and found me wanting.
+Hah! This is the absolute perfect, most Greenville way for this to
+happen. Of course, the chili isn't named after the cooks. It's named
+after the dog.
 
-"I beg your pardon?" he said, his voice dripping with condescension.
-
-I met his gaze, my expression flat, my eyes holding his. I let the silence stretch for a beat.
-
-"He's a champion," I said.
-
-The statement was so simple, so absurd, and delivered with such utter, chilling seriousness that Croft was momentarily stunned into silence. He looked from me to the dog, then back to me, a flicker of confusion and something else—maybe a hint of fear—in his eyes. He was an ass, but he wasn't stupid. He recognized that he had just pushed the wrong button, even if he had no idea what that button was.
-
-He scoffed, a weak, flustered sound, and buried his face in his menu, breaking eye contact. The tension in the diner broke. Will let out a small chuckle. Peggy smirked as she poured Croft's coffee, sloshing a little onto the saucer.
-
-The crisis was over. The invader had been repelled, not with a threat, but with a simple statement of fact.
-
-I sat back in my booth and reached down, scratching Buddy behind his good ear. He leaned into my hand, a low rumble of contentment in his chest.
-
-Trouble in Greenville, Wisconsin, wasn't a cartel or a hit squad. It was a jerk writer with a bad attitude. And for the first time in a very long time, I knew with absolute certainty that I was exactly where I needed to be.
-
-***
-
-### Book 2: Mike's Town

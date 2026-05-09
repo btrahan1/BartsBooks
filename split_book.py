@@ -1,7 +1,7 @@
 import os
 import re
 
-file_path = r"C:\MyBooks\LastQuietPlaceInAmerica1-Edited.md"
+file_path = r"C:\Users\bartt\.gemini\antigravity\scratch\LastQuietPlaceInAmerica1.md"
 output_dir = r"C:\Users\bartt\.gemini\antigravity\scratch\LastQuietPlaceInAmerica"
 
 if not os.path.exists(output_dir):
@@ -10,8 +10,8 @@ if not os.path.exists(output_dir):
 with open(file_path, 'r', encoding='utf-8') as f:
     content = f.read()
 
-# Split by "# Chapter"
-chapters = re.split(r'(?m)^# Chapter\s+', content)
+# Split by "### []{#anchor}Chapter"
+chapters = re.split(r'(?m)^###\s+\[\]\{#anchor\}Chapter\s+', content)
 
 print(f"Found {len(chapters) - 1} chapters.")
 
@@ -27,14 +27,8 @@ for i, chapter in enumerate(chapters):
     lines = chapter.split('\n')
     title_line = lines[0].strip()
     
-    # Extract number
-    match = re.match(r'^(\d+)', title_line)
-    if match:
-        num = int(match.group(1))
-        filename = f"chapter_{num:02d}.md"
-    else:
-        # Fallback to index
-        filename = f"chapter_{i:02d}.md"
+    # Use sequential index
+    filename = f"chapter_{i:02d}.md"
         
     # Reconstruct the content
     full_content = f"# Chapter {chapter}"

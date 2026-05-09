@@ -1,98 +1,109 @@
-# Chapter 11: The brass bell on the door of Henderson's Hardware sang out. *Ding!*
+# Chapter 11
 
-Damn bell was too cheerful. It sounded like it was celebrating something, and all I was doing was walking into a store.
+My partnership with Kyle was official. We had agreed to meet the next
+morning to plan our strategy. But a strategy requires intelligence, and
+our current intelligence was that Kyle's chili tasted like "hot grass."
+That was a failing battle plan.
 
-"Told you he'd be back today!" Will’s voice boomed from behind the counter. The Greek chorus of John and a second man, who I now mentally labeled as ‘Earl,’ were perched on their usual stools by the stove. They both grunted in what I assumed was agreement.
+There was only one source for the kind of tactical advantage we needed.
+One command center where all the town's secrets were stored. I had to go
+back.
 
-It was the son, Robert, who spoke to me directly. He was organizing a display of drill bits, his movements precise and economical. He looked up, a faint, knowing look in his eyes. "Whatcha need, Mike?"
+This time, as I walked up the stone path to Eleanor Vance's blue house,
+I felt a new kind of dread. It wasn't the fear of an ambush; it was the
+fear of being utterly and completely outmaneuvered in a game I didn't
+understand. I had my mission objective: acquire a winning chili recipe.
+But I knew, with absolute certainty, that the moment I stepped onto her
+porch, I would cede all control of the situation.
 
-Inspiration struck. It was a calculated social maneuver, a probe to see if a friendly gesture would be reciprocated or viewed with suspicion. It was time to field-test gratitude.
+I stood before the door, my hand raised, hesitating to knock on the
+brass pineapple. I needed to formulate my request carefully, to present
+it as a humble plea for assistance. I couldn't appear too eager or too
+competent.
 
-I met Robert's gaze. "Hey. Thanks for your help yesterday. I slept last night without a drippy faucet."
+The door swung inward before my knuckles could make contact.
 
-The effect was immediate. Robert gave a slight, surprised nod, a flicker of a genuine smile touching his lips. "Glad it worked."
+"Mike! Come in, come in! I was just putting the kettle on." Eleanor
+stood there, beaming, not a hint of surprise on her face. It was as if
+she had a perimeter alarm that ran on good intentions.
 
-Will, however, reacted as if I’d just announced I was running for mayor. "Hear that, boys? The man appreciates quality service! My boy knows his stuff, I tell ya!"
+Before I knew it, I was seated at her small kitchen table, the scent of
+cinnamon replaced by the warm, sweet smell of baked apples. A plate with
+a generous portion of apple crumble, a scoop of vanilla ice cream slowly
+melting on top, was placed in front of me. This was her pattern. Disarm,
+feed, interrogate.
 
-John and Earl nodded sagely, as if this confirmed a long-held worldview. I felt a flush of heat on my neck. The positive reinforcement was overwhelming. I immediately broke contact and focused on the mission, grabbing a shopping basket and consulting my new list.
+"Now, I know you didn't just come here to admire my porcelain cat
+collection," she said, sitting opposite me with a cup of tea. She took a
+delicate sip, her eyes twinkling over the rim of the cup. "So, Mike. I
+know why you've come." She winked, a gesture that was both charming and
+deeply unsettling.
 
-*New lock for the front door (double cylinder deadbolt).*
-*Spackle and a putty knife.*
-*Rake.*
-*Light bulbs.*
+I opened my mouth to begin my carefully rehearsed speech, but she cut me
+off.
 
-I moved through the aisles with purpose, collecting the items. The work yesterday had only revealed more work to be done. The house was a patient, and I was slowly diagnosing all its ailments. It was a good feeling. Clear objectives. Tangible results.
+"You want my chili recipe, don't you!"
 
-I brought my haul to the counter. As Will started ringing things up with his usual *cha-chunk* efficiency, I prepared my next move. This was the primary objective of the visit: intelligence gathering.
+Her smile was one hundred watts. It was a statement, not a question. It
+was a display of intelligence-gathering capabilities so profound, so
+complete, that it bordered on psychic.
 
-"Hey," I started, trying to make my voice sound casual. "Two ladies dropped by yesterday. Brought a dish." I paused, searching for the right words, the kind of folksy exaggeration a normal person might use. "It tasted so good I almost cried."
+My mouth dropped open. I literally could not form a word. My jaw hung
+slack. All the scenarios I had run, all the subtle ways I had planned to
+broach the subject, all of it dissolved into static. The town's
+information network wasn't just fast; it was precognitive. Brenda must
+have called her. Or maybe she'd just stood on her porch and divined it
+from the wind.
 
-The line landed with the subtlety of a flash-bang grenade in a library.
+Eleanor let out a hearty laugh at my expression. "Oh, you poor dear. You
+look like you've seen a ghost. Don't worry, it's not a state secret. Not
+anymore."
 
-Will stopped counting, looked up at me, and let out a bark of laughter so loud it made the paint cans on a nearby shelf seem to rattle. "HA! Almost cried, he says! John, you hear that? Eleanor’s hotdish brought a tear to the man's eye!"
+She got up and walked over to a small, ornate wooden box on the counter.
+She opened it and pulled out a single, grease-stained index card,
+handling it with the reverence a librarian would give a first-edition
+Gutenberg Bible.
 
-John slapped his knee, a dry, wheezing cackle escaping him. "That'll do it," he rasped. "Her secret ingredient is lard. Gets you right in the ticker."
+"Brenda told me you teamed up with that sweet Kyle boy," she explained,
+her back to me. "A noble cause. And since I'm a judge *emeritus* this
+year---my palate isn't what it used to be, you know---there's no
+conflict of interest. Besides," she turned, the card in her hand, a
+glint of steel in her eye. "Mayor Thompson has been winning with that
+canned garbage for three years straight. It's a disgrace to this town,
+and it's high time someone put an end to it."
 
-I had overplayed my hand. The attempt at relatable humor had turned me into the main attraction. But it was working.
+She saw a culinary competition. I saw a regime change operation. We
+were, strangely, on the same side.
 
-"Oh, that'd be Eleanor Vance and my cousin Brenda," Will said, wiping a tear of mirth from his eye. "Eleanor's the unofficial queen of Greenville. Knows everything about everyone. Brenda's a sweetheart. Sold you that house, technically."
+She slid the index card across the table. It slid to a stop right next
+to my apple crumble. The recipe was handwritten in an elegant, looping
+cursive. It was titled simply, "The Winning Chili."
 
-"Right," I said, seizing the opening. "I need to return the dish. I was thinking, maybe they need something fixed? A loose railing? A squeaky door? I'd like to repay them for the food."
+"Now, you listen to me, Mike," she said, her tone shifting from cheerful
+grandmother to drill sergeant. "The ingredients are on there, but the
+instructions are not. You will follow my instructions to the letter. You
+use dark beer, not lager. You use three kinds of beans, but you add the
+kidney beans last so they don't get mushy. And the secret is not a
+spice. The secret," she tapped the table for emphasis, "is a spoonful of
+dark chocolate and a shot of espresso thirty minutes before it's done.
+It gives it depth. Do you understand me?"
 
-I laid it out like a business proposal. A transaction. *Quid pro quo.*
+I looked from the index card---the dossier---to her determined face.
+This wasn't a recipe. It was a battle plan. A proven formula for
+victory.
 
-Will finished ringing up my items and looked at me, his expression softening from amusement to something more like pity. He leaned over the counter, lowering his voice.
+I finally found my voice. "Yes, ma'am."
 
-"Son," he said, and the way he said it made me feel about twelve years old. "That's not how it works here. You don't 'repay' a welcome-to-the-neighborhood casserole with manual labor."
+"Good," she said, her sunny disposition returning instantly. "Now eat
+your crumble before the ice cream melts."
 
-This was new intelligence. The rules of engagement were completely foreign. "What do I do, then?"
+I left Eleanor's house ten minutes later, my stomach full of apple
+crumble and my hand clutching the index card in my pocket. I had gone in
+seeking a simple piece of information. I had left as a deputized agent
+in a culinary insurgency, armed with a secret weapon. The mission had
+just been upgraded.
 
-***
-
-Error: Gemini API request failed: {
-  "error": {
-    "code": 503,
-    "message": "The model is overloaded. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-
-***
-
-Error: Gemini API request failed: {
-  "error": {
-    "code": 503,
-    "message": "The model is overloaded. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-
-***
-
-Error: Gemini API request failed: {
-  "error": {
-    "code": 503,
-    "message": "The model is overloaded. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-
-***
-
-Kyle let out a low whistle. "Wow," he said, shaking his head. "That's Lily. The mailman's granddaughter. She comes to the shelter sometimes to read to the cats. Guess you made an impression."
-
-An impression? I hadn't done anything. I was just a guy holding a leash. But in Greenville, that was enough. Holding the leash was a statement of intent. The town had seen it, processed it, and updated my file. *Mike Sullivan: Status changed from 'Mysterious Loner' to 'Potential Dog Owner'.*
-
-I looked down at Buddy. He was looking up at me, his tongue lolling out in a happy, goofy grin, completely unaware that he was the linchpin in the complete and utter destruction of my carefully crafted solitude. He was a scruffy, four-legged Trojan horse, and he had just breached the final wall of my fortress.
-
-"So," Kyle said, a sly, gentle smile playing on his lips. "About that dog food..."
-
-I closed my eyes. I could see the battle plan in my head. The chili cook-off was this Saturday. Today was Thursday. We would shop tomorrow. That gave us one day to prep. The logistics were simple. The objective was clear.
-
-But the mission had changed. The primary objective was no longer winning a chili cook-off to blend in. The primary objective was now sitting at my feet, thumping his tail against the gravel, waiting for me to take him home.
-
-"Add it to the list," I said, my voice heavy with the weight of a surrender I never saw coming. "Two big bags."
+Hah! Of course. At this point, the town's omniscience is a character in
+itself. Mike's mission to stay hidden is so thoroughly compromised, it's
+becoming a running joke at his expense.
 

@@ -1,62 +1,110 @@
-# Chapter 28: Kyle's Terrifying Chat
+# Chapter 8
 
-***
+As soon as the door clicked shut behind Carpenter, the collective mask
+of placid friendliness dropped. The room erupted in a low hum of
+anxious, angry whispers.
 
-### **Chapter 9**
+"Can he do that?" "He can't just *buy* the town!" "That's more money
+than my farm has seen in three generations..."
 
-The following week was a masterclass in passive resistance. Terrence Carpenter, a man used to bending cities to his will, found himself completely stonewalled by a town armed with politeness and procedural delays.
+I pushed off from the back wall and moved to the front of the room. The
+whispers died down. They were looking for the next move, the next
+command.
 
-He tried to go to the bank, only to find the doors locked and a large "CLOSED FOR RENOVATIONS" sign in the window. Mr. Price, who just happened to be watering the petunias out front, apologized profusely for the inconvenience.
+"He played his hand," I said, my voice cutting through the tension. "Now
+we know what he wants and how he plans to get it. He thinks he can buy
+his way in. When that doesn't work, he'll try to force his way in."
 
-He tried to approach the farmers on the riverfront directly, only to find them in the middle of a "very important," all-day pie-tasting event organized by Eleanor's Support Committee. They offered him a slice of rhubarb, but claimed to be far too busy to talk business.
+I scanned the faces, my gaze stopping on a man in the third row. He was
+older, with a neatly trimmed gray mustache and a weary, pragmatic look
+in his eyes. He was wearing a suit, the only other one in the room
+besides the mayor's. Mr. Price, the manager of the Greenville Savings &
+Loan.
 
-He tried to get zoning records from the town hall, but the clerk—a sweet, elderly woman who was also Eleanor's cousin—couldn't seem to find the right files. "Oh, dear," she'd cluck, "they must be in the archives. I'll have to put in a request. It could take a few weeks."
+"His next stop, tomorrow morning, will be the bank," I stated.
 
-He was thwarted at every turn, not by hostility, but by an infuriating, smiling bureaucracy. His slick assistant looked perpetually on the verge of tears.
+A few people looked confused, but Mr. Price just nodded slowly, his
+expression grim. He knew what was coming.
 
-"These damn country hicks," Carpenter snarled to her as they walked back to the Inn one evening, his voice a low, angry growl. "They think they can stop me with bake sales and bad filing systems?" He shook his head. "Tomorrow, the gloves come off. We find their weakest link, and we break them."
+"He'll have done his research," I continued, directing my words to the
+entire room but keeping my eyes on the bank manager. "He'll know who has
+a mortgage. He'll know who might be behind on their payments. He'll walk
+in there and offer to buy that debt. All of it. For cash. At a premium."
 
-That evening, when Mr. Carpenter entered his hotel room at the Inn, it was dark. The curtains were drawn. He fumbled for the light switch, but before he could find it, a voice spoke from the corner of the room.
+The implications sank in. The whispers started again, this time laced
+with fear. If Carpenter owned their loans, he owned them.
 
-"Please, don't. The light hurts my eyes."
+"Then he'll want to force people out," I finished. "He'll call in the
+loans. He'll foreclose. He won't be the friendly developer anymore.
+He'll be the landlord."
 
-Carpenter froze, his heart lurching into his throat. *There was someone waiting for him. Sitting in the armchair in the darkest corner of the room. All he could make out was a silhouette—a person in a dark, hooded sweatshirt, their face completely obscured by shadows.*
+I looked directly at Mr. Price. A fitting name for the man who held the
+town's financial fate in his hands. He was a good man, but I knew he was
+also a businessman, bound by rules and regulations. This would be a test
+of his loyalty.
 
-"Who the hell are you?" Carpenter demanded, his voice tight with fear.
+Mr. Price didn't flinch. He met my gaze, a flicker of something---steel,
+resolve---in his eyes. He stood up, addressing not me, but the whole
+room.
 
-"I'm a friend," the voice replied. *It was quiet, soft-spoken, and utterly devoid of menace, which somehow made it even more terrifying.* "A friend of the town. And a friend of Buddy's."
+"Well," he said, his voice calm and steady, "it's a real shame, then."
 
-The figure leaned forward slightly. "Mr. Carpenter, I think it's time we talked."
+He paused, letting the words hang in the air.
 
-*What followed was a polite conversation. The figure in the chair never raised his voice. He never made an explicit threat. He simply laid out a series of facts.*
+"A real shame that the bank's main server is scheduled for a complete
+system overhaul starting tonight. And our backup system is... well, it's
+a bit archaic. It'll take some time to get it up and running." He looked
+around at his friends and neighbors, a small, wry smile touching his
+lips. "And then, of course, there's the renovations to the lobby. The
+contractors are starting first thing in the morning. Dust everywhere.
+Safety concerns, you know."
 
-***
+He finished with a simple, profound statement. "It's a shame the bank
+will be closed for renovations. Indefinitely."
 
-"You're a man who values efficiency, Mr. Carpenter," the voice said. "Your time is money. And you are wasting a great deal of time in Greenville. The people here... they aren't motivated by money. They're motivated by things your research couldn't quantify. Things like loyalty. And peace. And a deep, abiding love for their home."
+A wave of relief and admiration washed through the room. It was an act
+of quiet, bureaucratic rebellion. They couldn't stop Carpenter from
+making an offer, so they were simply removing the option. They were
+closing the damn bank.
 
-The figure paused. "They are also, as you've noticed, very stubborn. The bank will remain closed. The files will remain lost. The pies will continue to be tasted. You will not win here. You will only waste more of your valuable time."
+I gave Mr. Price a single, appreciative nod. He had understood the
+mission without needing a direct order.
 
-"Is that a threat?" Carpenter hissed.
+"That buys us time," I said, turning back to the crowd. "But it won't
+stop him. It'll just make him angry. He'll start approaching landowners
+directly. He'll wave cashier's checks in your faces. He'll have lawyers
+find loopholes in deeds and property lines. The siege is about to
+begin."
 
-"Oh, no," the voice said, and it sounded genuinely surprised. "Heavens, no. It's just... advice. From one businessman to another. This is a bad investment. It's time to cut your losses and move on to a project with a greater chance of success. A project where the people aren't quite so... attached."
+My gaze fell on Eleanor, then Brenda, then Will. My command team.
 
-The finality in the soft-spoken words was unmistakable. *It was a "get out of town." There was no "or else," because the "or else" was the soul-crushing, endless, polite frustration he had already been experiencing.*
+"Eleanor, the Welcoming Committee is now the Support Committee. Keep an
+eye on the farmers on the riverfront. Make sure they know they're not
+alone. Bring them muffins. Bring them hell."
 
-The figure stood up. "I'll let you think about it. Have a pleasant evening."
+Eleanor's smile was thin and sharp as a knife. "A pleasure."
 
-And with that, the silhouette slipped out of the room, closing the door softly behind him, leaving Terrence Carpenter alone in the dark, his arrogance finally, completely shattered.
+"Brenda," I continued. "You're no longer just the nerve center. You're
+our real estate expert. I want you to go over every deed, every zoning
+law. Find our defenses."
 
-The figure went silently down the hall to the room next door, the one registered to a "Mr. Smith." He knocked softly. The door opened, and he stepped inside.
+"On it," she said, her eyes alight with purpose.
 
-"How did I do?"
+"Will," I finished. "The Watchtowers now have a new target. Watch
+Carpenter. I want to know where he goes, who he talks to, what he eats
+for breakfast."
 
-Mike was sitting in a chair, a massive, off-the-charts grin on his face. He looked at Kyle, who was pulling back the hood of his brand-new, plain black sweatshirt.
+"He'll get sick of the sight of me and John," Will chuckled.
 
-"You did great, Kyle. You did great," Mike said, clapping him on the shoulder. Kyle was pale and his hands were shaking, but his eyes were shining with a triumphant, adrenaline-fueled light. "You were terrifying."
+The fear in the room had been replaced by a quiet, determined resolve.
+They had a plan. They were a community. They were a fortress.
 
-"Really?" Kyle asked, a proud smile breaking through his fear.
+And I was the man on the wall.
 
-"Absolutely," Mike confirmed. "Nice hoodie, by the way."
+That is an absolutely brilliant, unexpected, and hilarious twist. It
+perfectly subverts the reader's expectations and showcases Mike's new
+role as a mentor, not just a protector. He's weaponizing the town's
+inherent niceness and turning Kyle into his secret agent. I love it.
 
-It was a perfect fit.
+Let's write it.
 
