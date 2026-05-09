@@ -1,8 +1,18 @@
 ﻿[
     {
+        "id":  "AIMeltdown",
+        "title":  "AIMeltdown",
+        "chapters":  15
+    },
+    {
         "id":  "AmazingGrace",
         "title":  "AmazingGrace",
         "chapters":  18
+    },
+    {
+        "id":  "BeautifulBard",
+        "title":  "BeautifulBard",
+        "chapters":  40
     },
     {
         "id":  "CultivatorInNYC_Book1",
@@ -25,6 +35,16 @@
         "chapters":  77
     },
     {
+        "id":  "KungFuKevin",
+        "title":  "KungFuKevin",
+        "chapters":  36
+    },
+    {
+        "id":  "KungFuMedic",
+        "title":  "KungFuMedic",
+        "chapters":  46
+    },
+    {
         "id":  "RenQuickfoot",
         "title":  "RenQuickfoot",
         "chapters":  26
@@ -35,8 +55,33 @@
         "chapters":  36
     },
     {
+        "id":  "ShakespeareInArcadia",
+        "title":  "ShakespeareInArcadia",
+        "chapters":  26
+    },
+    {
         "id":  "SmallTownSmith",
         "title":  "SmallTownSmith",
         "chapters":  78
+    },
+    {
+        "id":  "SpaceTrucker",
+        "title":  "SpaceTrucker",
+        "chapters":  20
+    },
+    {
+        "id":  "TannerSmith",
+        "title":  "TannerSmith",
+        "chapters":  44
+    },
+    {
+        "id":  "WayOfTheSpear",
+        "title":  "WayOfTheSpear",
+        "chapters":  43
+    },
+    {
+        "id":  "WuxiaKungFu",
+        "title":  "WuxiaKungFu",
+        "chapters":  25
     }
 ]
