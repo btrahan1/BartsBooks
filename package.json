@@ -1,0 +1,15 @@
+{
+  "name": "bartsbooks",
+  "version": "1.0.0",
+  "description": "A book reader for Bart's books.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}

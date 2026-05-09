@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BartsBooks - Reader</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Merriweather:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="dark-theme">
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h1>BartsBooks</h1>
+                <button id="close-sidebar" class="icon-btn">✕</button>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>Library</h3>
+                <select id="book-selector" class="custom-select">
+                    <option value="RenQuickfoot">Ren Quickfoot - Book 1</option>
+                    <option value="RenQuickfoot_Book2">Ren Quickfoot - Book 2</option>
+                </select>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>Chapters</h3>
+                <ul class="chapter-list" id="chapter-list">
+                    <!-- Chapters will be loaded here -->
+                    <li class="loading">Loading chapters...</li>
+                </ul>
+            </div>
+            
+            <div class="sidebar-section settings">
+                <h3>Settings</h3>
+                <div class="setting-item">
+                    <span>Theme</span>
+                    <div class="theme-toggle">
+                        <button id="theme-dark" class="active">Dark</button>
+                        <button id="theme-light">Light</button>
+                    </div>
+                </div>
+                <div class="setting-item">
+                    <span>Font Size</span>
+                    <input type="range" id="font-size" min="14" max="32" value="18">
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="content-header">
+                <button id="open-sidebar" class="icon-btn">☰</button>
+                <div class="header-titles">
+                    <h2 id="book-title">Ren Quickfoot</h2>
+                    <h3 id="chapter-title">Chapter 1</h3>
+                </div>
+                <div class="header-actions">
+                    <!-- Future actions like search or bookmarks -->
+                </div>
+            </header>
+
+            <div class="reader-container">
+                <div id="reader-output" class="reader-output content-font">
+                    <!-- Rendered Markdown goes here -->
+                    <p class="loading">Select a chapter to begin reading...</p>
+                </div>
+            </div>
+
+            <footer class="content-footer">
+                <button id="prev-chapter" class="nav-btn">← Previous</button>
+                <span id="progress-indicator">1 / 10</span>
+                <button id="next-chapter" class="nav-btn">Next →</button>
+            </footer>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

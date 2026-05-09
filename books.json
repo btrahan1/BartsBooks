@@ -1,0 +1,47 @@
+﻿[
+    {
+        "id":  "AmazingGrace",
+        "title":  "AmazingGrace",
+        "chapters":  18
+    },
+    {
+        "id":  "AmazingGrace_Polished",
+        "title":  "AmazingGrace Polished",
+        "chapters":  18
+    },
+    {
+        "id":  "CultivatorInNYC_Book1",
+        "title":  "CultivatorInNYC - Book 1",
+        "chapters":  30
+    },
+    {
+        "id":  "CultivatorInNYC_Book2",
+        "title":  "CultivatorInNYC - Book 2",
+        "chapters":  32
+    },
+    {
+        "id":  "CultivatorInNYC_Book3",
+        "title":  "CultivatorInNYC - Book 3",
+        "chapters":  33
+    },
+    {
+        "id":  "GongTheTank",
+        "title":  "GongTheTank",
+        "chapters":  77
+    },
+    {
+        "id":  "RenQuickfoot",
+        "title":  "RenQuickfoot",
+        "chapters":  26
+    },
+    {
+        "id":  "RenQuickfoot_Book2",
+        "title":  "RenQuickfoot - Book 2",
+        "chapters":  36
+    },
+    {
+        "id":  "SmallTownSmith",
+        "title":  "SmallTownSmith",
+        "chapters":  78
+    }
+]
