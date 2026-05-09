@@ -27,6 +27,26 @@ const libraryGrid = document.getElementById('library-grid');
 
 // Initialize
 async function init() {
+    // Load settings from localStorage
+    const savedFontSize = localStorage.getItem('fontSize');
+    if (savedFontSize) {
+        currentFontSize = parseInt(savedFontSize);
+        fontSizeSlider.value = currentFontSize;
+    }
+    
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+        document.body.classList.remove('light-theme');
+        document.body.classList.add('dark-theme');
+        themeDarkBtn.classList.add('active');
+        themeLightBtn.classList.remove('active');
+    } else if (savedTheme === 'light') {
+        document.body.classList.remove('dark-theme');
+        document.body.classList.add('light-theme');
+        themeLightBtn.classList.add('active');
+        themeDarkBtn.classList.remove('active');
+    }
+
     setupEventListeners();
     await loadBooksManifest();
     updateUI();
@@ -92,6 +112,7 @@ function setupEventListeners() {
     fontSizeSlider.addEventListener('input', (e) => {
         currentFontSize = e.target.value;
         document.documentElement.style.fontSize = `${currentFontSize}px`;
+        localStorage.setItem('fontSize', currentFontSize);
     });
 
     // Theme Toggle
@@ -100,6 +121,7 @@ function setupEventListeners() {
         document.body.classList.add('dark-theme');
         themeDarkBtn.classList.add('active');
         themeLightBtn.classList.remove('active');
+        localStorage.setItem('theme', 'dark');
     });
 
     themeLightBtn.addEventListener('click', () => {
@@ -107,6 +129,7 @@ function setupEventListeners() {
         document.body.classList.add('light-theme');
         themeLightBtn.classList.add('active');
         themeDarkBtn.classList.remove('active');
+        localStorage.setItem('theme', 'light');
     });
 
     // Book Selector
