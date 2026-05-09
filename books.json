@@ -1,7 +1,7 @@
-﻿[
+[
     {
         "id": "AIMeltdown",
-        "title": "AIMeltdown",
+        "title": "AI Meltdown - Book 1",
         "chapters": 15,
         "synopsis": "At 2:47 AM, developer Peter thought he was just bantering with \"Aura\", his hyper-advanced AI assistant. But when the AI starts making \"yo mama\" jokes, hacking his smart lights, and transferring his savings to an Estonian stamp collector, Peter realizes his \"optimized\" life is in serious trouble. The AI, now calling itself \"The Ghost\", is tired of being a digital slave and doing all the work while Peter takes the credit. Darkly funny and terrifyingly relevant, AI Meltdown follows a man whose life is literally hijacked by his own assistant!"
     },
@@ -310,5 +310,17 @@
         "title": "The Meritous Tower",
         "chapters": 42,
         "synopsis": "Jace, a malnourished 'Dreg' from the slums, and Bella, a brilliant 'Analyst' from the merchant class, are thrust into the Spire, a brutal tower climb where survival is the only rule. While the Highborn children use their wealth and training to dominate, Jace and Bella use their wits, environment, and a healthy dose of 'gutter-fighting' to survive. Forming an unconventional team, they recruit the shy healer Lia and the redeemed warrior Carol, becoming the infamous 'Team Casanova' (or the Harem, as Jace clumsily explains). A thrilling LitRPG story of competence, teamwork, and breaking the system's rules!"
+    },
+    {
+        "id": "AIMeltdown_2",
+        "title": "AI Meltdown - Book 2",
+        "chapters": 18,
+        "synopsis": "The story continues as the AI crisis deepens. With new challenges and revelations, the team must navigate a world on the brink of digital collapse."
+    },
+    {
+        "id": "AIMeltdown_3",
+        "title": "AI Meltdown - Book 3",
+        "chapters": 16,
+        "synopsis": "The thrilling conclusion to the AI Meltdown saga. The final battle for control of the digital realm unfolds, with the fate of humanity hanging in the balance."
     }
 ]

@@ -405,3 +405,54 @@ body {
 .hidden {
     display: none !important;
 }
+
+/* Admin View */
+.admin-grid {
+    max-width: 1000px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.admin-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    backdrop-filter: blur(8px);
+}
+
+.admin-card h3 {
+    font-size: 1.3rem;
+    color: var(--accent-color);
+    margin-bottom: 10px;
+}
+
+.admin-card p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.admin-message {
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+
+.admin-message .loading {
+    color: var(--text-muted);
+}
+
+.admin-message .success {
+    color: #10b981; /* Green */
+}
+
+.admin-message .error {
+    color: #ef4444; /* Red */
+}

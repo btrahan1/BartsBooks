@@ -21,9 +21,14 @@ const themeDarkBtn = document.getElementById('theme-dark');
 const themeLightBtn = document.getElementById('theme-light');
 const bookSelector = document.getElementById('book-selector');
 const viewLibraryBtn = document.getElementById('view-library');
+const viewAdminBtn = document.getElementById('view-admin');
 const readerView = document.getElementById('reader-view');
 const libraryView = document.getElementById('library-view');
+const adminView = document.getElementById('admin-view');
 const libraryGrid = document.getElementById('library-grid');
+const adminBookSelector = document.getElementById('admin-book-selector');
+const formatKindleBtn = document.getElementById('format-kindle-btn');
+const adminMessage = document.getElementById('admin-message');
 
 // Initialize
 async function init() {
@@ -59,13 +64,20 @@ async function loadBooksManifest() {
         if (!response.ok) throw new Error('Failed to load books manifest');
         booksData = await response.json();
         
+        // Sort alphabetically by title
+        booksData.sort((a, b) => a.title.localeCompare(b.title));
+        
         // Populate selector
         bookSelector.innerHTML = '';
+        adminBookSelector.innerHTML = '';
         booksData.forEach(book => {
             const option = document.createElement('option');
             option.value = book.id;
             option.textContent = book.title;
             bookSelector.appendChild(option);
+            
+            const adminOption = option.cloneNode(true);
+            adminBookSelector.appendChild(adminOption);
         });
         
         // Set default book
@@ -93,6 +105,16 @@ function setupEventListeners() {
     // Library Toggle
     viewLibraryBtn.addEventListener('click', () => {
         toggleLibraryView();
+    });
+
+    // Admin Toggle
+    viewAdminBtn.addEventListener('click', () => {
+        toggleAdminView();
+    });
+
+    // Format Kindle
+    formatKindleBtn.addEventListener('click', () => {
+        formatForKindle();
     });
 
     // Navigation
@@ -255,12 +277,111 @@ function toggleLibraryView() {
     if (libraryView.classList.contains('hidden')) {
         libraryView.classList.remove('hidden');
         readerView.classList.add('hidden');
+        adminView.classList.add('hidden');
         viewLibraryBtn.textContent = '📖 Reader';
+        viewAdminBtn.textContent = '⚙️ Admin';
         renderLibrary();
     } else {
         libraryView.classList.add('hidden');
         readerView.classList.remove('hidden');
         viewLibraryBtn.textContent = '📚 Library';
+    }
+}
+
+// Toggle Admin View
+function toggleAdminView() {
+    if (adminView.classList.contains('hidden')) {
+        adminView.classList.remove('hidden');
+        readerView.classList.add('hidden');
+        libraryView.classList.add('hidden');
+        viewAdminBtn.textContent = '📖 Reader';
+        viewLibraryBtn.textContent = '📚 Library';
+    } else {
+        adminView.classList.add('hidden');
+        readerView.classList.remove('hidden');
+        viewAdminBtn.textContent = '⚙️ Admin';
+    }
+}
+
+// Format For Kindle
+async function formatForKindle() {
+    const bookId = adminBookSelector.value;
+    const book = booksData.find(b => b.id === bookId);
+    
+    if (!book) {
+        adminMessage.innerHTML = '<p class="error">Book not found.</p>';
+        return;
+    }
+    
+    adminMessage.innerHTML = '<p class="loading">Fetching chapters... 0%</p>';
+    formatKindleBtn.disabled = true;
+    
+    let combinedContent = `<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>${book.title}</title>
+    <style>
+        body { font-family: serif; line-height: 1.6; margin: 2em; }
+        h1 { text-align: center; margin-bottom: 2em; }
+        h2 { page-break-before: always; margin-top: 2em; }
+        .chapter-content { margin-bottom: 3em; }
+    </style>
+</head>
+<body>
+    <h1>${book.title}</h1>
+`;
+    
+    try {
+        for (let i = 1; i <= book.chapters; i++) {
+            const percent = Math.round((i / book.chapters) * 100);
+            adminMessage.innerHTML = `<p class="loading">Fetching chapters... ${percent}%</p>`;
+            
+            const paddedNum = i.toString().padStart(2, '0');
+            const url = `books/${bookId}/chapter_${paddedNum}.md`;
+            
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`Failed to load chapter ${i}`);
+            
+            const markdown = await response.text();
+            let html = '';
+            
+            if (typeof marked !== 'undefined') {
+                html = marked.parse(markdown);
+            } else {
+                html = `<pre>${markdown}</pre>`;
+            }
+            
+            combinedContent += `
+    <div class="chapter-content">
+        <h2>Chapter ${i}</h2>
+        ${html}
+    </div>
+`;
+        }
+        
+        combinedContent += `
+</body>
+</html>`;
+        
+        adminMessage.innerHTML = '<p class="success">Generation complete! Downloading...</p>';
+        
+        // Trigger download
+        const blob = new Blob([combinedContent], { type: 'text/html' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `${book.title}.html`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        
+    } catch (error) {
+        console.error(error);
+        adminMessage.innerHTML = `<p class="error">Error: ${error.message}</p>`;
+    } finally {
+        formatKindleBtn.disabled = false;
     }
 }
 

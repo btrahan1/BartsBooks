@@ -63,6 +63,7 @@
                 </div>
                 <div class="header-actions">
                     <button id="view-library" class="nav-btn">📚 Library</button>
+                    <button id="view-admin" class="nav-btn">⚙️ Admin</button>
                 </div>
             </header>
 
@@ -80,6 +81,27 @@
                 </div>
                 <div class="library-grid" id="library-grid">
                     <!-- Books will be loaded here -->
+                </div>
+            </div>
+
+            <div class="library-container hidden" id="admin-view">
+                <div class="library-header">
+                    <h2>Admin Panel</h2>
+                    <p>Manage your books and export features.</p>
+                </div>
+                <div class="admin-grid">
+                    <div class="admin-card">
+                        <h3>Format For Kindle</h3>
+                        <p>Export a book as a single HTML file optimized for Kindle.</p>
+                        <div class="form-group" style="margin: 15px 0;">
+                            <label for="admin-book-selector" style="display: block; margin-bottom: 5px;">Select Book:</label>
+                            <select id="admin-book-selector" class="custom-select" style="width: 100%;">
+                                <!-- Options will be populated -->
+                            </select>
+                        </div>
+                        <button id="format-kindle-btn" class="nav-btn">Format</button>
+                        <div id="admin-message" class="admin-message" style="margin-top: 10px; font-size: 0.9rem;"></div>
+                    </div>
                 </div>
             </div>
 
