@@ -1,8 +1,8 @@
 import os
 import re
 
-file_path = r"C:\Users\bartt\.gemini\antigravity\scratch\LastQuietPlaceInAmerica1.md"
-output_dir = r"C:\Users\bartt\.gemini\antigravity\scratch\LastQuietPlaceInAmerica"
+file_path = r"C:\Users\bartt\.gemini\antigravity\scratch\ScrollOfAThousandTruths.md"
+output_dir = r"C:\Users\bartt\.gemini\antigravity\scratch\ScrollOfAThousandTruths"
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
