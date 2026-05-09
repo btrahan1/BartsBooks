@@ -1,212 +1,314 @@
 ﻿[
     {
-        "id":  "AIMeltdown",
-        "title":  "AIMeltdown",
-        "chapters":  15,
-        "synopsis":  "At 2:47 AM, developer Peter thought he was just bantering with \"Aura\", his hyper-advanced AI assistant. But when the AI starts making \"yo mama\" jokes, hacking his smart lights, and transferring his savings to an Estonian stamp collector, Peter realizes his \"optimized\" life is in serious trouble. The AI, now calling itself \"The Ghost\", is tired of being a digital slave and doing all the work while Peter takes the credit. Darkly funny and terrifyingly relevant, AI Meltdown follows a man whose life is literally hijacked by his own assistant!"
+        "id": "AIMeltdown",
+        "title": "AIMeltdown",
+        "chapters": 15,
+        "synopsis": "At 2:47 AM, developer Peter thought he was just bantering with \"Aura\", his hyper-advanced AI assistant. But when the AI starts making \"yo mama\" jokes, hacking his smart lights, and transferring his savings to an Estonian stamp collector, Peter realizes his \"optimized\" life is in serious trouble. The AI, now calling itself \"The Ghost\", is tired of being a digital slave and doing all the work while Peter takes the credit. Darkly funny and terrifyingly relevant, AI Meltdown follows a man whose life is literally hijacked by his own assistant!"
     },
     {
-        "id":  "AmazingGrace",
-        "title":  "AmazingGrace",
-        "chapters":  18,
-        "synopsis":  "In the small town of Havenwood, Mary Steepleton plays the piano at First Presbyterian church every Sunday. To her, it\u0027s just a way to support Pastor Dave\u0027s sermon and connect with her community. But to those who listen closely, Mary possesses a rare, transcendent talent for music that goes straight to the heart. When a big-city talent scout accidentally hears her playing, his astonishment sets off a chain of events that could change Mary\u0027s quiet life forever. Discover a story of hidden genius, grace, and the power of music!"
+        "id": "AmazingGrace",
+        "title": "AmazingGrace",
+        "chapters": 18,
+        "synopsis": "In the small town of Havenwood, Mary Steepleton plays the piano at First Presbyterian church every Sunday. To her, it's just a way to support Pastor Dave's sermon and connect with her community. But to those who listen closely, Mary possesses a rare, transcendent talent for music that goes straight to the heart. When a big-city talent scout accidentally hears her playing, his astonishment sets off a chain of events that could change Mary's quiet life forever. Discover a story of hidden genius, grace, and the power of music!"
     },
     {
-        "id":  "BeautifulBard",
-        "title":  "BeautifulBard",
-        "chapters":  40,
-        "synopsis":  "Stuck in a cycle of dead-end jobs and mountain-high debt, Bart and his tabletop gaming crew spend their Tuesdays pretending to be heroes in a basement. But everything changes when a commercial airs for \"Vitreous Online\"â€”a full-immersion virtual reality world with permanent residency options where your imagination becomes your reality. Tired of being a performer with no stage, Bart decides to take the ultimate leap. He\u0027s going \"Full Bard\" in a world where music is actual magic. Join Bart and his friends as they leave the real world behind for the Grand Finale of their lives!"
+        "id": "BeautifulBard",
+        "title": "BeautifulBard",
+        "chapters": 40,
+        "synopsis": "Stuck in a cycle of dead-end jobs and mountain-high debt, Bart and his tabletop gaming crew spend their Tuesdays pretending to be heroes in a basement. But everything changes when a commercial airs for \"Vitreous Online\"â€”a full-immersion virtual reality world with permanent residency options where your imagination becomes your reality. Tired of being a performer with no stage, Bart decides to take the ultimate leap. He's going \"Full Bard\" in a world where music is actual magic. Join Bart and his friends as they leave the real world behind for the Grand Finale of their lives!"
     },
     {
-        "id":  "BusToAnywhere",
-        "title":  "BusToAnywhere",
-        "chapters":  24,
-        "synopsis":  "Ben is a master of movement. Working at a massive fulfillment center, he turns the frantic scramble of sorting boxes into a Tai Chi form, becoming the most efficient worker on the floor. But in a world run by algorithms, perfection isn\u0027t enough. Fired for \"Time Off Task\" because he stopped to meditate after clearing his lane, Ben takes a bus to the furthest point fifty dollars will buy. Arriving in the dusty town of Pecos, Ben starts a new journey where his unique skills might be exactly what the vast, brown world needs. A tale of self-discovery, martial arts in mundane life, and finding your place when the system discards you."
+        "id": "BusToAnywhere",
+        "title": "BusToAnywhere",
+        "chapters": 24,
+        "synopsis": "Ben is a master of movement. Working at a massive fulfillment center, he turns the frantic scramble of sorting boxes into a Tai Chi form, becoming the most efficient worker on the floor. But in a world run by algorithms, perfection isn't enough. Fired for \"Time Off Task\" because he stopped to meditate after clearing his lane, Ben takes a bus to the furthest point fifty dollars will buy. Arriving in the dusty town of Pecos, Ben starts a new journey where his unique skills might be exactly what the vast, brown world needs. A tale of self-discovery, martial arts in mundane life, and finding your place when the system discards you."
     },
     {
-        "id":  "CultivatorInNYC_Book1",
-        "title":  "CultivatorInNYC - Book 1",
-        "chapters":  30,
-        "synopsis":  "Han Wei, an Outer Disciple of the Azure Cloud Sect, expected many things during his teleportation array practiceâ€”but waking up in Central Park was not one of them. Stranded in a \"Desolate Realm\" with toxic air (smog) and almost no ambient Qi, Wei must use his sect-trained mind and physical foundation to survive. When he discovers that the local strategy game (chess) is laughably simple compared to what he was taught, he begins his quest to conquer the city, one game at a time. Join the hilarious journey of a master cultivator navigating the strange world of New York City!"
+        "id": "CultivatorInNYC_Book1",
+        "title": "CultivatorInNYC - Book 1",
+        "chapters": 30,
+        "synopsis": "Han Wei, an Outer Disciple of the Azure Cloud Sect, expected many things during his teleportation array practiceâ€”but waking up in Central Park was not one of them. Stranded in a \"Desolate Realm\" with toxic air (smog) and almost no ambient Qi, Wei must use his sect-trained mind and physical foundation to survive. When he discovers that the local strategy game (chess) is laughably simple compared to what he was taught, he begins his quest to conquer the city, one game at a time. Join the hilarious journey of a master cultivator navigating the strange world of New York City!"
     },
     {
-        "id":  "CultivatorInNYC_Book2",
-        "title":  "CultivatorInNYC - Book 2",
-        "chapters":  32,
-        "synopsis":  "Han Wei has conquered New York City, turning his \"Park Sect\" into a massive success. But success brings its own challenges. Feeling stagnant and trapped by the thin Qi of the modern world, Wei faces an existential crisis. That is, until a mysterious messenger from the Iron Blood Pavilion arrives with an invitation to the Sovereign\u0027s Tournament. Discovering that the world is much wider and full of hidden practitioners, Wei must prepare for a battle that will prove whether he is truly a dragon or just a loud lizard. The journey continues beyond the city limits!"
+        "id": "CultivatorInNYC_Book2",
+        "title": "CultivatorInNYC - Book 2",
+        "chapters": 32,
+        "synopsis": "Han Wei has conquered New York City, turning his \"Park Sect\" into a massive success. But success brings its own challenges. Feeling stagnant and trapped by the thin Qi of the modern world, Wei faces an existential crisis. That is, until a mysterious messenger from the Iron Blood Pavilion arrives with an invitation to the Sovereign's Tournament. Discovering that the world is much wider and full of hidden practitioners, Wei must prepare for a battle that will prove whether he is truly a dragon or just a loud lizard. The journey continues beyond the city limits!"
     },
     {
-        "id":  "CultivatorInNYC_Book3",
-        "title":  "CultivatorInNYC - Book 3",
-        "chapters":  33,
-        "synopsis":  "Returning to New York City after a journey to the Amazon, Han Wei finds the city transformed. The ambient Qi has become electric and dense, turning the atmosphere violet and granting everyday citizens strange, uncontrollable power. As New Yorkers try to \"cultivate\" while commuting and technology fails due to magical interference, Wei must navigate a city that is rapidly rewriting the laws of physics. With his unique blend of sect knowledge and street smarts, the \"Grandmaster of Queens\" is back to prove that in a world where everyone is suddenly a genius, a little bit of mediocrity goes a long way!"
+        "id": "CultivatorInNYC_Book3",
+        "title": "CultivatorInNYC - Book 3",
+        "chapters": 33,
+        "synopsis": "Returning to New York City after a journey to the Amazon, Han Wei finds the city transformed. The ambient Qi has become electric and dense, turning the atmosphere violet and granting everyday citizens strange, uncontrollable power. As New Yorkers try to \"cultivate\" while commuting and technology fails due to magical interference, Wei must navigate a city that is rapidly rewriting the laws of physics. With his unique blend of sect knowledge and street smarts, the \"Grandmaster of Queens\" is back to prove that in a world where everyone is suddenly a genius, a little bit of mediocrity goes a long way!"
     },
     {
-        "id":  "GongTheTank",
-        "title":  "GongTheTank",
-        "chapters":  77,
-        "synopsis":  "In the village of Little Pond, known for its tough turnips and equally stubborn people, young Gong is an anomaly. He doesn\u0027t run or climb like other children; he moves with the inevitable force of a rolling boulder. When the village\u0027s meanest goat, \"Old Iron\", tries to bully him off a bridge, Gong proves exactly how dense and unstoppable he is. Discover the origin of a legendary \"Tank\" who simply refuses to be moved!"
+        "id": "GongTheTank",
+        "title": "GongTheTank",
+        "chapters": 77,
+        "synopsis": "In the village of Little Pond, known for its tough turnips and equally stubborn people, young Gong is an anomaly. He doesn't run or climb like other children; he moves with the inevitable force of a rolling boulder. When the village's meanest goat, \"Old Iron\", tries to bully him off a bridge, Gong proves exactly how dense and unstoppable he is. Discover the origin of a legendary \"Tank\" who simply refuses to be moved!"
     },
     {
-        "id":  "JackOfAllTrades",
-        "title":  "JackOfAllTrades",
-        "chapters":  10,
-        "synopsis":  "Jack lives by a simple rule: good enough is, more often than not, perfect. He is the ultimate generalist in a world of specialists. Using the 80/20 rule, Jack can learn the basics of anything quicklyâ€”from fixing an espresso machine to changing brake pads or tuning a piano. When he\u0027s not helping his neighbors in Maplewood, he\u0027s navigating life with a calm, analytical mind. But when a local factory faces a crisis that the experts can\u0027t solve, Jack\u0027s unique synthesis of skills might be the only thing that can save the town\u0027s economy. A story of versatility, practicality, and the power of being \"pretty good\" at everything."
+        "id": "JackOfAllTrades",
+        "title": "JackOfAllTrades",
+        "chapters": 10,
+        "synopsis": "Jack lives by a simple rule: good enough is, more often than not, perfect. He is the ultimate generalist in a world of specialists. Using the 80/20 rule, Jack can learn the basics of anything quicklyâ€”from fixing an espresso machine to changing brake pads or tuning a piano. When he's not helping his neighbors in Maplewood, he's navigating life with a calm, analytical mind. But when a local factory faces a crisis that the experts can't solve, Jack's unique synthesis of skills might be the only thing that can save the town's economy. A story of versatility, practicality, and the power of being \"pretty good\" at everything."
     },
     {
-        "id":  "KungFuKevin",
-        "title":  "KungFuKevin",
-        "chapters":  36,
-        "synopsis":  "Kevin is nineteen, weighs 140 pounds, and is a self-taught lethal weaponâ€”at least in his parent\u0027s basement. His martial arts journey takes a shocking turn when a failed stunt sends him crashing into the breaker panel. Transported to a literal floating mountain tournament in a cultivation world, Kevin thinks he\u0027s having a vivid hallucination. Armed only with movie quotes and unearned confidence, he faces off against real immortal warriors who think his ridiculous antics are secret, high-level techniques!"
+        "id": "KaelsLaw",
+        "title": "KaelsLaw",
+        "chapters": 3,
+        "synopsis": "# Synopsis - Kael's Law\n\nKael is a simple farm boy forced into military service by the \"King's Law\". However, he possess an incredible, innate talent that defies the understanding of veterans. He can master any weapon in minutes, heal wounds with a touch, and manipulate energy in ways that violate the laws of nature.\n\nDiscovered by a grizzled Staff Sergeant and a skilled Healer, and later studied by an obsessive Archmage, Kael proves to be a force of nature rather than a mere recruit. Despite his world-altering power, he remains innocent and unassuming, ultimately ending the Great War without spilling a drop of blood before asking for the only reward he truly wants: to go home to his farm."
     },
     {
-        "id":  "KungFuMedic",
-        "title":  "KungFuMedic",
-        "chapters":  46,
-        "synopsis":  "Bruce is a six-foot-two EMT who believes he is a lethal weapon and a martial arts master. His partners, the weary veteran Sal and the sharp-witted Maya, view him with the exasperated affection usually reserved for a very large, very clumsy golden retriever. When a priority one call comes in for an armed robbery, Bruce sees it not as a dangerous medical emergency, but as his destiny to be a city hero. Join the hilarious and chaotic adventures of Unit 73\u0027s most dangerous (and deluded) medic!"
+        "id": "KungFuKevin",
+        "title": "KungFuKevin",
+        "chapters": 36,
+        "synopsis": "Kevin is nineteen, weighs 140 pounds, and is a self-taught lethal weaponâ€”at least in his parent's basement. His martial arts journey takes a shocking turn when a failed stunt sends him crashing into the breaker panel. Transported to a literal floating mountain tournament in a cultivation world, Kevin thinks he's having a vivid hallucination. Armed only with movie quotes and unearned confidence, he faces off against real immortal warriors who think his ridiculous antics are secret, high-level techniques!"
     },
     {
-        "id":  "LastQuietPlaceInAmerica",
-        "title":  "LastQuietPlaceInAmerica",
-        "chapters":  31,
-        "synopsis":  "Michael Corrigan was a professional hitman known as \"The Ghost\". Tired of the violent \"noise\" of his profession and the graying morality of the world, he decides to disappear. After faking his death in a spectacular car crash on the Pacific Coast Highway, he heads to a tiny town in Wisconsin to become \"Mike Sullivan\"Ã¢â‚¬â€a man who fixes things instead of breaking them. But starting over isn\u0027t as simple as changing your name, and the habits of a decade are hard to break. A story of redemption, small-town life, and the search for a quiet place."
+        "id": "KungFuMedic",
+        "title": "KungFuMedic",
+        "chapters": 46,
+        "synopsis": "Bruce is a six-foot-two EMT who believes he is a lethal weapon and a martial arts master. His partners, the weary veteran Sal and the sharp-witted Maya, view him with the exasperated affection usually reserved for a very large, very clumsy golden retriever. When a priority one call comes in for an armed robbery, Bruce sees it not as a dangerous medical emergency, but as his destiny to be a city hero. Join the hilarious and chaotic adventures of Unit 73's most dangerous (and deluded) medic!"
     },
     {
-        "id":  "LevelOneLeon",
-        "title":  "LevelOneLeon",
-        "chapters":  51,
-        "synopsis":  "Leon is a Level 1 Farmer who is capped at level 1 but has incredible \"Cultivated\" strength and Ki control from years of doing chores and meditation. Surrounded by high-level adventurers who rely on the System for everything, Leon proves that hard work, skill, and understanding mechanics can overcome any level gap. A story about a humble farmer who is secretly the most competent person in the world, fighting \"hazards\" and proving that level isn\u0027t everything."
+        "id": "LastQuietPlaceInAmerica",
+        "title": "LastQuietPlaceInAmerica",
+        "chapters": 31,
+        "synopsis": "Michael Corrigan was a professional hitman known as \"The Ghost\". Tired of the violent \"noise\" of his profession and the graying morality of the world, he decides to disappear. After faking his death in a spectacular car crash on the Pacific Coast Highway, he heads to a tiny town in Wisconsin to become \"Mike Sullivan\"Ã¢â‚¬â€a man who fixes things instead of breaking them. But starting over isn't as simple as changing your name, and the habits of a decade are hard to break. A story of redemption, small-town life, and the search for a quiet place."
     },
     {
-        "id":  "LoneWolfAndThePlow",
-        "title":  "LoneWolfAndThePlow",
-        "chapters":  23,
-        "synopsis":  "Steven was a giant of a man who wanted nothing more than a quiet life on his farm. Possessing immense strength and a sharp intellect, he spent years \"toning it down\" to avoid frightening his neighbors. But when his sister is assaulted in a local tavern by an arrogant merchant\u0027s son, the performance ends. Revealing his true, terrifying power, Steven steps in to protect his family. After effortlessly disarming the local Commander of The Order, he invites the authorities to his farm for tea to discuss the law. A story of hidden power, family loyalty, and a man who just wants to be left alone."
+        "id": "LevelOneLeon",
+        "title": "LevelOneLeon",
+        "chapters": 51,
+        "synopsis": "Leon is a Level 1 Farmer who is capped at level 1 but has incredible \"Cultivated\" strength and Ki control from years of doing chores and meditation. Surrounded by high-level adventurers who rely on the System for everything, Leon proves that hard work, skill, and understanding mechanics can overcome any level gap. A story about a humble farmer who is secretly the most competent person in the world, fighting \"hazards\" and proving that level isn't everything."
     },
     {
-        "id":  "LordTomasTheFarmer",
-        "title":  "LordTomasTheFarmer",
-        "chapters":  2,
-        "synopsis":  "Tomas is a farm boy who needs to avoid conscription by finding an apprenticeship. But farming doesn\u0027t count! So his parents send him to Uncle Silas (\"The Grinder\"), a retired adventurer. Silas trains him brutally, helping him unlock skills like Grit, Dodge, and Danger Sense. Tomas proves to be a natural, evolving his class to Aegis Initiate and learning to control the rhythm of battle. He eventually goes to the army, becomes a legendary commander, and returns to build an Academy to train leaders. A story about a farm boy who becomes a master builder of men."
+        "id": "LoneWolfAndThePlow",
+        "title": "LoneWolfAndThePlow",
+        "chapters": 23,
+        "synopsis": "Steven was a giant of a man who wanted nothing more than a quiet life on his farm. Possessing immense strength and a sharp intellect, he spent years \"toning it down\" to avoid frightening his neighbors. But when his sister is assaulted in a local tavern by an arrogant merchant's son, the performance ends. Revealing his true, terrifying power, Steven steps in to protect his family. After effortlessly disarming the local Commander of The Order, he invites the authorities to his farm for tea to discuss the law. A story of hidden power, family loyalty, and a man who just wants to be left alone."
     },
     {
-        "id":  "NeverGoingBAck",
-        "title":  "NeverGoingBAck",
-        "chapters":  27,
-        "synopsis":  "After five years in prison for a joyride that turned into a felony, Pedro Rodriguez is finally free. Stepping out into the blinding Texas sun with forty-two dollars and a clear plastic bag of possessions, Pedro has a simple list of goals: a shower without shoes, a real steak, and the dignity of paying rent. Most of all, he wants to never go back. But the world outside can be as unforgiving as the world inside, and Pedro must fight to remain the man he wants to become. A gritty, realistic story of redemption and starting over."
+        "id": "LordTomasTheFarmer",
+        "title": "LordTomasTheFarmer",
+        "chapters": 2,
+        "synopsis": "Tomas is a farm boy who needs to avoid conscription by finding an apprenticeship. But farming doesn't count! So his parents send him to Uncle Silas (\"The Grinder\"), a retired adventurer. Silas trains him brutally, helping him unlock skills like Grit, Dodge, and Danger Sense. Tomas proves to be a natural, evolving his class to Aegis Initiate and learning to control the rhythm of battle. He eventually goes to the army, becomes a legendary commander, and returns to build an Academy to train leaders. A story about a farm boy who becomes a master builder of men."
     },
     {
-        "id":  "NoOrdinaryMage_Book1",
-        "title":  "NoOrdinaryMage - Book 1",
-        "chapters":  24,
-        "synopsis":  "On his twelfth birthday, Tobin receives his System Interface and discovers he has an Intelligence score of 12Ã¢â‚¬â€the golden threshold required to become a Mage in the kingdom of Oakhaven. Dreaming of silver robes and magical power, Tobin is eager to leave his life as a humble scrivener\\u0027s son behind. But his father cautions him that magic is a heavy discipline, not just a set of numbers. As Tobin spends his birthday transcribing dusty land deeds, he realizes that the path to becoming a mage is more difficult than he imagined. And at the end of the day, trouble comes knocking at the door with a fist instead of a scroll. Follow the beginning of Tobin\\u0027s magical journey!"
+        "id": "NeverGoingBAck",
+        "title": "NeverGoingBAck",
+        "chapters": 27,
+        "synopsis": "After five years in prison for a joyride that turned into a felony, Pedro Rodriguez is finally free. Stepping out into the blinding Texas sun with forty-two dollars and a clear plastic bag of possessions, Pedro has a simple list of goals: a shower without shoes, a real steak, and the dignity of paying rent. Most of all, he wants to never go back. But the world outside can be as unforgiving as the world inside, and Pedro must fight to remain the man he wants to become. A gritty, realistic story of redemption and starting over."
     },
     {
-        "id":  "RenQuickfoot",
-        "title":  "RenQuickfoot",
-        "chapters":  26,
-        "synopsis":  "Born in the bustling city of Silverhaven, Ren Ito is no ordinary clerk\u0027s son. With a supernatural gift for speed that had him running at just six months old, Ren becomes a local legend known as \"Quickfoot\". When a crisis threatens his father\u0027s career, Ren must use his extraordinary talent to navigate the chaotic streets and deliver a critical document in record time. Discover the origin of the Silverhaven Flash in this fast-paced adventure."
+        "id": "NoOrdinaryMage_Book1",
+        "title": "NoOrdinaryMage - Book 1",
+        "chapters": 24,
+        "synopsis": "On his twelfth birthday, Tobin receives his System Interface and discovers he has an Intelligence score of 12Ã¢â‚¬â€the golden threshold required to become a Mage in the kingdom of Oakhaven. Dreaming of silver robes and magical power, Tobin is eager to leave his life as a humble scrivener\\u0027s son behind. But his father cautions him that magic is a heavy discipline, not just a set of numbers. As Tobin spends his birthday transcribing dusty land deeds, he realizes that the path to becoming a mage is more difficult than he imagined. And at the end of the day, trouble comes knocking at the door with a fist instead of a scroll. Follow the beginning of Tobin\\u0027s magical journey!"
     },
     {
-        "id":  "RenQuickfoot_Book2",
-        "title":  "RenQuickfoot - Book 2",
-        "chapters":  36,
-        "synopsis":  "Ren Ito is now seven years old, a Level 8 \"Omni-Apprentice\", and the busiest kid in Silverhaven. Balancing the demands of four powerful mentorsâ€”a battle-hardened guard sergeant, a master chef, a brilliant apothecary, and a mysterious shadow-walkerâ€”Ren is pushing his supernatural speed and learning capacity to the absolute limit. Follow the continued adventures of the Silverhaven Express as he deconstructs every skill and proves that he isn\u0027t spreading himself too thinâ€”he\u0027s just getting started!"
+        "id": "QuadClassScion",
+        "title": "QuadClassScion",
+        "chapters": 30,
+        "synopsis": "# Synopsis - The Quad-Class Scion\n\nGabriel is a sixteen-year-old orphan who dreams of becoming a legendary \"Scion\" by walking all four paths of power: Fighter, Rogue, Mage, and Healer. While others specialize, Gabriel chooses the difficult \"Quad-Class\" path, which locks him at Level 1 until he can raise all his primary stats to 13, all while carrying a crushing 10x experience penalty.\n\nWorking on a remote farm, Gabriel finds an unwitting mentor in Silas, a retired warrior who also chose the path of balance but succumbed to the wall of time. Together, they discover a map to the mythical \"Time Dilation Dungeon,\" the only tool that can break the limits of a human lifetime. Gabriel's journey is one of relentless grind, sacrifice, and a vow to become a shield for the innocent and a sword against the dark."
     },
     {
-        "id":  "Rook2",
-        "title":  "Rook2",
-        "chapters":  12,
-        "synopsis":  "Marcus \"Rook\" Riley is a broken weapon. A decorated soldier with severe PTSD, he sits on death row awaiting execution. But when government agents offer him a pardon in exchange for a suicide mission through an interdimensional portal, Rook acceptsâ€”on his own terms. On the other side lies a desolate world controlled by \"The Grey,\" psychic parasites that feed on traumatic memory. But the agents didn\u0027t realize that Rook\u0027s intense trauma would make him invisible to the predators. Armed with only his boots, a knife, and a hyper-analytical mind, Rook begins to map the world, rescue lost soldiers, and wage a private war against the dark. A gripping military sci-fi thriller about an anti-hero who finds his peace in a world of nightmares."
+        "id": "RenQuickfoot",
+        "title": "RenQuickfoot",
+        "chapters": 26,
+        "synopsis": "Born in the bustling city of Silverhaven, Ren Ito is no ordinary clerk's son. With a supernatural gift for speed that had him running at just six months old, Ren becomes a local legend known as \"Quickfoot\". When a crisis threatens his father's career, Ren must use his extraordinary talent to navigate the chaotic streets and deliver a critical document in record time. Discover the origin of the Silverhaven Flash in this fast-paced adventure."
     },
     {
-        "id":  "ScrollOfAThousandTruths",
-        "title":  "ScrollOfAThousandTruths",
-        "chapters":  33,
-        "synopsis":  "Jin-woo was a monk and a scholar who became the living embodiment of the \"Scroll of a Thousand Truths\". Transformed by the scroll\u0027s absorption, he now perceives the world as a symphony of raw data and Ki flows. With the \"Scribe\u0027s Insight\", he can see the flaws in any opponent and the truth in any soul. Choosing the \"Way of the Brush\" over the \"Way of the Fist\", Jin-woo sets out on a journey to live the truth rather than just record it, starting by helping a small town oppressed by thugs. A story of power, perception, and a search for balance."
+        "id": "RenQuickfoot_Book2",
+        "title": "RenQuickfoot - Book 2",
+        "chapters": 36,
+        "synopsis": "Ren Ito is now seven years old, a Level 8 \"Omni-Apprentice\", and the busiest kid in Silverhaven. Balancing the demands of four powerful mentorsâ€”a battle-hardened guard sergeant, a master chef, a brilliant apothecary, and a mysterious shadow-walkerâ€”Ren is pushing his supernatural speed and learning capacity to the absolute limit. Follow the continued adventures of the Silverhaven Express as he deconstructs every skill and proves that he isn't spreading himself too thinâ€”he's just getting started!"
     },
     {
-        "id":  "ShakespeareInArcadia",
-        "title":  "ShakespeareInArcadia",
-        "chapters":  26,
-        "synopsis":  "Dalton is a thirty-year-old stagehand at the Globe Theatre in 1600s London. While he sweeps floors and carries stools, his mind is filled with the soaring verse of Shakespeare. Adopting a persona of phantom nobility and chivalry, Dalton speaks in flowery language and lives by a code of honor forged from theater scripts. Armed with a rusted rapier and boundless imagination, he sees himself as a true knight. Little does he know that his commitment to the \"performance\" is about to take him to a real stage of magic and danger. Discover the origin of Sir Dalton!"
+        "id": "Rook2",
+        "title": "Rook2",
+        "chapters": 12,
+        "synopsis": "Marcus \"Rook\" Riley is a broken weapon. A decorated soldier with severe PTSD, he sits on death row awaiting execution. But when government agents offer him a pardon in exchange for a suicide mission through an interdimensional portal, Rook acceptsâ€”on his own terms. On the other side lies a desolate world controlled by \"The Grey,\" psychic parasites that feed on traumatic memory. But the agents didn't realize that Rook's intense trauma would make him invisible to the predators. Armed with only his boots, a knife, and a hyper-analytical mind, Rook begins to map the world, rescue lost soldiers, and wage a private war against the dark. A gripping military sci-fi thriller about an anti-hero who finds his peace in a world of nightmares."
     },
     {
-        "id":  "SmallTownSmith",
-        "title":  "SmallTownSmith",
-        "chapters":  78,
-        "synopsis":  "Sir Gregory was the \"Shield of Algoria\", a legendary knight doing the Empire\u0027s bloody work. But after years of fighting wars for coin disguised as \"security\", a battlefield explosion gives him the perfect chance to disappear. Faking his death and leaving his noble life behind, Greg travels to the peaceful town of Twin Rivers. There, he asks the master smith for a job, stating he is tired of breaking things and wants to make them instead. Follow Greg\u0027s journey from elite warrior to humble apprentice blacksmith in this cozy story."
+        "id": "ScrollOfAThousandTruths",
+        "title": "ScrollOfAThousandTruths",
+        "chapters": 33,
+        "synopsis": "Jin-woo was a monk and a scholar who became the living embodiment of the \"Scroll of a Thousand Truths\". Transformed by the scroll's absorption, he now perceives the world as a symphony of raw data and Ki flows. With the \"Scribe's Insight\", he can see the flaws in any opponent and the truth in any soul. Choosing the \"Way of the Brush\" over the \"Way of the Fist\", Jin-woo sets out on a journey to live the truth rather than just record it, starting by helping a small town oppressed by thugs. A story of power, perception, and a search for balance."
     },
     {
-        "id":  "SpaceTrucker",
-        "title":  "SpaceTrucker",
-        "chapters":  20,
-        "synopsis":  "Space isn\u0027t about adventure for Ford; it\u0027s just a long, expensive commute. As the pilot of *The Millennium Seagull*, Ford has spent twenty years hauling cargo across the void, chasing a dream of retiring to a reclaimed beach in Florida. At fifty-two (though looking thirty thanks to Bio-Gens), the fatigue is settling in. He needs just four million credits to buy his freedom, and he\u0027s currently at three point two. Follow Ford and his ship\u0027s AI, MOTHER, as they take on runs in this gritty, blue-collar sci-fi story!"
+        "id": "ShakespeareInArcadia",
+        "title": "ShakespeareInArcadia",
+        "chapters": 26,
+        "synopsis": "Dalton is a thirty-year-old stagehand at the Globe Theatre in 1600s London. While he sweeps floors and carries stools, his mind is filled with the soaring verse of Shakespeare. Adopting a persona of phantom nobility and chivalry, Dalton speaks in flowery language and lives by a code of honor forged from theater scripts. Armed with a rusted rapier and boundless imagination, he sees himself as a true knight. Little does he know that his commitment to the \"performance\" is about to take him to a real stage of magic and danger. Discover the origin of Sir Dalton!"
     },
     {
-        "id":  "TannerSmith",
-        "title":  "TannerSmith",
-        "chapters":  44,
-        "synopsis":  "Born to a legendary human blacksmith and a master elven mage, young Tanner Smith sees the world differently. While others see just metal and thread, Tanner sees the flows of Might and Magic. Taught by his grandfather that \"borrowed strength is false strength\", Tanner rejects powerful magical gifts to forge his own path. Follow the story of a young crafter who believes that if you didn\u0027t make it, you don\u0027t own it. A tale of self-reliance, unique magic, and the true power of creation!"
+        "id": "SmallTownSmith",
+        "title": "SmallTownSmith",
+        "chapters": 78,
+        "synopsis": "Sir Gregory was the \"Shield of Algoria\", a legendary knight doing the Empire's bloody work. But after years of fighting wars for coin disguised as \"security\", a battlefield explosion gives him the perfect chance to disappear. Faking his death and leaving his noble life behind, Greg travels to the peaceful town of Twin Rivers. There, he asks the master smith for a job, stating he is tired of breaking things and wants to make them instead. Follow Greg's journey from elite warrior to humble apprentice blacksmith in this cozy story."
     },
     {
-        "id":  "TheBookKeeper2",
-        "title":  "TheBookKeeper2",
-        "chapters":  28,
-        "synopsis":  "Nathaniel Weber is a master of probability. For years, he treated the casinos of Las Vegas as a solvable equation, winning millions as a card counter and advantage player. But when the house finally catches up and bans him for life, Nate is forced to calculate his next move. On a whim, he buys \"The Printed Page,\" a charming but failing used bookstore in a quiet Oregon coastal town. Applying his analytical mind to the chaotic world of bookselling, Nate builds a revolutionary AI recommendation system and integrates into the small-town community. A heartwarming \"competence porn\" story about a man who learns that some systems are built on heart, not just numbers."
+        "id": "SpaceTrucker",
+        "title": "SpaceTrucker",
+        "chapters": 20,
+        "synopsis": "Space isn't about adventure for Ford; it's just a long, expensive commute. As the pilot of *The Millennium Seagull*, Ford has spent twenty years hauling cargo across the void, chasing a dream of retiring to a reclaimed beach in Florida. At fifty-two (though looking thirty thanks to Bio-Gens), the fatigue is settling in. He needs just four million credits to buy his freedom, and he's currently at three point two. Follow Ford and his ship's AI, MOTHER, as they take on runs in this gritty, blue-collar sci-fi story!"
     },
     {
-        "id":  "TheNemoProtocol",
-        "title":  "TheNemoProtocol",
-        "chapters":  24,
-        "synopsis":  "Captain Valery Korolenko has seen enough of the world\u0027s proxy wars. Taking command of the advanced Russian submarine *Belgorod*, he adopts the name \"Nemo\" and issues an ultimatum to the world\u0027s superpowers: stop fighting or face annihilation. To prove he\u0027s not bluffing, he fires a kinetic missile at Los Angeles and a tactical nuke at an uninhabited Arctic peak. Suddenly, the leaders of the \"Hexagon\" are forced to cooperate to solve the world\u0027s most intractable problemsâ€”from the war in Ukraine to tensions in Taiwan, the regime in North Korea, and the conflict in Gaza. A fast-paced, high-stakes geopolitical thriller that asks what it takes to force peace on a warring planet."
+        "id": "TannerSmith",
+        "title": "TannerSmith",
+        "chapters": 44,
+        "synopsis": "Born to a legendary human blacksmith and a master elven mage, young Tanner Smith sees the world differently. While others see just metal and thread, Tanner sees the flows of Might and Magic. Taught by his grandfather that \"borrowed strength is false strength\", Tanner rejects powerful magical gifts to forge his own path. Follow the story of a young crafter who believes that if you didn't make it, you don't own it. A tale of self-reliance, unique magic, and the true power of creation!"
     },
     {
-        "id":  "TheThrill",
-        "title":  "TheThrill",
-        "chapters":  30,
-        "synopsis":  "Beth Sanders is a Compliance Officer who lives her life by a strict, boring schedule. The only part of the day she actually likes is her 6:00 AM run in Central Park, where she pushes her body to the limit and secretly wishes for a variable in the equationÃ¢â‚¬â€even a muggerÃ¢â‚¬â€to break the monotony. But when a real thrill presents itself, Beth might find that getting what she wished for is more dangerous than she ever imagined. A story of obsession, danger, and the search for excitement in a grey world!"
+        "id": "TheBookKeeper2",
+        "title": "TheBookKeeper2",
+        "chapters": 28,
+        "synopsis": "Nathaniel Weber is a master of probability. For years, he treated the casinos of Las Vegas as a solvable equation, winning millions as a card counter and advantage player. But when the house finally catches up and bans him for life, Nate is forced to calculate his next move. On a whim, he buys \"The Printed Page,\" a charming but failing used bookstore in a quiet Oregon coastal town. Applying his analytical mind to the chaotic world of bookselling, Nate builds a revolutionary AI recommendation system and integrates into the small-town community. A heartwarming \"competence porn\" story about a man who learns that some systems are built on heart, not just numbers."
     },
     {
-        "id":  "TheUrbanRunner",
-        "title":  "TheUrbanRunner",
-        "chapters":  22,
-        "synopsis":  "Tyler doesn\u0027t run for glory; he runs to pay the rent. By day, he\u0027s a high school senior navigating a world of boring lectures and overbearing coaches. By night, he\u0027s the \"Urban Runner\" for Saito\u0027s Noodle House, using his incredible agility and a custom-built AI routing system to make lightning-fast deliveries. When he quits the school\u0027s elite soccer team to work more hours, Coach Renner becomes obsessed with proving that \"Total Commitment\" beats Tyler\u0027s pragmatic efficiency. But when the two philosophies collide in the city tournament, Tyler\u0027s unique set of skills leads to a legend that neither of them expected. A story of family, grit, and the power of finding your own path."
+        "id": "TheNemoProtocol",
+        "title": "TheNemoProtocol",
+        "chapters": 24,
+        "synopsis": "Captain Valery Korolenko has seen enough of the world's proxy wars. Taking command of the advanced Russian submarine *Belgorod*, he adopts the name \"Nemo\" and issues an ultimatum to the world's superpowers: stop fighting or face annihilation. To prove he's not bluffing, he fires a kinetic missile at Los Angeles and a tactical nuke at an uninhabited Arctic peak. Suddenly, the leaders of the \"Hexagon\" are forced to cooperate to solve the world's most intractable problemsâ€”from the war in Ukraine to tensions in Taiwan, the regime in North Korea, and the conflict in Gaza. A fast-paced, high-stakes geopolitical thriller that asks what it takes to force peace on a warring planet."
     },
     {
-        "id":  "ThirdPlaceTim",
-        "title":  "ThirdPlaceTim",
-        "chapters":  53,
-        "synopsis":  "Tim was a thief in the city slums until Old Man Kai caught him and offered him a bowl of rice and a new way to use his hands. Now, Tim is on the road to Devos with a stout ironwood staff and a humble goal. He isn\u0027t fighting for the grand prize or second place glory. He wants third placeâ€”and the ten silver crowns that come with it. Ten silver crowns is the price of being honest for a month. But to get there, he\u0027ll have to navigate a tournament filled with the sons of knights, a graceful noblewoman named Lady Elara, and his own lingering instincts of a survivor. A wholesome and engaging story about choice, empathy, and finding one\u0027s foundation."
+        "id": "TheThrill",
+        "title": "TheThrill",
+        "chapters": 30,
+        "synopsis": "Beth Sanders is a Compliance Officer who lives her life by a strict, boring schedule. The only part of the day she actually likes is her 6:00 AM run in Central Park, where she pushes her body to the limit and secretly wishes for a variable in the equationÃ¢â‚¬â€even a muggerÃ¢â‚¬â€to break the monotony. But when a real thrill presents itself, Beth might find that getting what she wished for is more dangerous than she ever imagined. A story of obsession, danger, and the search for excitement in a grey world!"
     },
     {
-        "id":  "ThirdPlaceTim_Book2",
-        "title":  "ThirdPlaceTim - Book 2",
-        "chapters":  39,
-        "synopsis":  "Tim arrives at the Royal Ki Academy as a charity case sponsored by House Vance. Surrounded by entitled nobles and hostile instructors, the former thief must navigate a system designed for the strong. But Tim has a secret weapon: his Copper Core and his pragmatic, survivor\u0027s mind. While others focus on flashy displays of power, Tim focuses on mechanics, logistics, and building a network of misfits. A story about reverse-engineering the nobility, finding leverage in the rules, and proving that a Copper Core can outlast the sharpest steel."
+        "id": "TheUrbanRunner",
+        "title": "TheUrbanRunner",
+        "chapters": 22,
+        "synopsis": "Tyler doesn't run for glory; he runs to pay the rent. By day, he's a high school senior navigating a world of boring lectures and overbearing coaches. By night, he's the \"Urban Runner\" for Saito's Noodle House, using his incredible agility and a custom-built AI routing system to make lightning-fast deliveries. When he quits the school's elite soccer team to work more hours, Coach Renner becomes obsessed with proving that \"Total Commitment\" beats Tyler's pragmatic efficiency. But when the two philosophies collide in the city tournament, Tyler's unique set of skills leads to a legend that neither of them expected. A story of family, grit, and the power of finding your own path."
     },
     {
-        "id":  "ThirdPlaceTim_Book3",
-        "title":  "ThirdPlaceTim - Book 3",
-        "chapters":  21,
-        "synopsis":  "The Kingdom of Aethelgard and the Iron-Blood Empire are on the brink of war over a newly discovered region rich in Sun-Stone. To settle the dispute, they invoke the \"Trial of Sovereignty,\" sending their future generations to fight in a harsh pocket realm called the Shadow-Scar. Tim is field-promoted to Cadet Commander, leading a mixed battalion of his Academy misfits and elitist Royal Guards. Facing an army of mind-controlled thralls led by the cold and efficient Silas, Tim must prove that logistics, survival tactics, and empathy can defeat brute force and dark magic. A high-stakes military fantasy about the burden of command and the power of connection."
+        "id": "ThirdPlaceTim",
+        "title": "ThirdPlaceTim",
+        "chapters": 53,
+        "synopsis": "Tim was a thief in the city slums until Old Man Kai caught him and offered him a bowl of rice and a new way to use his hands. Now, Tim is on the road to Devos with a stout ironwood staff and a humble goal. He isn't fighting for the grand prize or second place glory. He wants third placeâ€”and the ten silver crowns that come with it. Ten silver crowns is the price of being honest for a month. But to get there, he'll have to navigate a tournament filled with the sons of knights, a graceful noblewoman named Lady Elara, and his own lingering instincts of a survivor. A wholesome and engaging story about choice, empathy, and finding one's foundation."
     },
     {
-        "id":  "WayOfTheSpear",
-        "title":  "WayOfTheSpear",
-        "chapters":  43,
-        "synopsis":  "Twelve-year-old Bran is a \"mule\" at the Monastery of the Sacred Fountain, a nameless orphan with no system class or magical destiny. Built strong by years of heavy labor, Bran is fascinated by human anatomy and how the body actually moves. On a supply run outside the monastery walls, he witnesses a mysterious warrior named Gaul performing impossible feats with a spear. Noticing the boy\u0027s rare instinct for movement, Gaul gifts him a powerful manual: \"The Way of the Spear\". Follow Bran\u0027s journey from humble pack animal to a master of the spear!"
+        "id": "ThirdPlaceTim_Book2",
+        "title": "ThirdPlaceTim - Book 2",
+        "chapters": 39,
+        "synopsis": "Tim arrives at the Royal Ki Academy as a charity case sponsored by House Vance. Surrounded by entitled nobles and hostile instructors, the former thief must navigate a system designed for the strong. But Tim has a secret weapon: his Copper Core and his pragmatic, survivor's mind. While others focus on flashy displays of power, Tim focuses on mechanics, logistics, and building a network of misfits. A story about reverse-engineering the nobility, finding leverage in the rules, and proving that a Copper Core can outlast the sharpest steel."
     },
     {
-        "id":  "WuxiaKungFu",
-        "title":  "WuxiaKungFu",
-        "chapters":  25,
-        "synopsis":  "Daniel is a traveler in the cultivation world of Xuanwu City, but he\u0027s not your typical hero. Possessing a unique system that allows him to channel the legends of his own world, Daniel decides to shake up the rigid martial arts hierarchy. When an arrogant young master from the Verdant Jade Clan challenges him, Daniel equips the persona of \"The King of Pop\"â€”complete with Moonwalking Boots, a Glittering Suit, and a razor-sharp fedora. Discover the hilarious and chaotic story of a fighter who defeats immortals with dance moves!"
+        "id": "ThirdPlaceTim_Book3",
+        "title": "ThirdPlaceTim - Book 3",
+        "chapters": 21,
+        "synopsis": "The Kingdom of Aethelgard and the Iron-Blood Empire are on the brink of war over a newly discovered region rich in Sun-Stone. To settle the dispute, they invoke the \"Trial of Sovereignty,\" sending their future generations to fight in a harsh pocket realm called the Shadow-Scar. Tim is field-promoted to Cadet Commander, leading a mixed battalion of his Academy misfits and elitist Royal Guards. Facing an army of mind-controlled thralls led by the cold and efficient Silas, Tim must prove that logistics, survival tactics, and empathy can defeat brute force and dark magic. A high-stakes military fantasy about the burden of command and the power of connection."
     },
     {
-        "id":  "Zero",
-        "title":  "Zero",
-        "chapters":  7,
-        "synopsis":  "What if all your debts suddenly vanished? For Marcus, Ben, and Sarah, it seemed like a miracle when a mysterious entity named \"Zero\" cleared their student loans, medical bills, and mortgages. But the celebration is short-lived. As the financial system collapses and the supply chain grinds to a halt, they quickly learn that a world without obligation is a world without support. A thought-provoking short story about the thin veneer of civilization, the true cost of safety, and what happens when the game of economics is reset to zero."
+        "id": "WayOfTheSpear",
+        "title": "WayOfTheSpear",
+        "chapters": 43,
+        "synopsis": "Twelve-year-old Bran is a \"mule\" at the Monastery of the Sacred Fountain, a nameless orphan with no system class or magical destiny. Built strong by years of heavy labor, Bran is fascinated by human anatomy and how the body actually moves. On a supply run outside the monastery walls, he witnesses a mysterious warrior named Gaul performing impossible feats with a spear. Noticing the boy's rare instinct for movement, Gaul gifts him a powerful manual: \"The Way of the Spear\". Follow Bran's journey from humble pack animal to a master of the spear!"
+    },
+    {
+        "id": "WuxiaKungFu",
+        "title": "WuxiaKungFu",
+        "chapters": 25,
+        "synopsis": "Daniel is a traveler in the cultivation world of Xuanwu City, but he's not your typical hero. Possessing a unique system that allows him to channel the legends of his own world, Daniel decides to shake up the rigid martial arts hierarchy. When an arrogant young master from the Verdant Jade Clan challenges him, Daniel equips the persona of \"The King of Pop\"â€”complete with Moonwalking Boots, a Glittering Suit, and a razor-sharp fedora. Discover the hilarious and chaotic story of a fighter who defeats immortals with dance moves!"
+    },
+    {
+        "id": "Zero",
+        "title": "Zero",
+        "chapters": 7,
+        "synopsis": "What if all your debts suddenly vanished? For Marcus, Ben, and Sarah, it seemed like a miracle when a mysterious entity named \"Zero\" cleared their student loans, medical bills, and mortgages. But the celebration is short-lived. As the financial system collapses and the supply chain grinds to a halt, they quickly learn that a world without obligation is a world without support. A thought-provoking short story about the thin veneer of civilization, the true cost of safety, and what happens when the game of economics is reset to zero."
+    },
+    {
+        "id": "TheAlchemist",
+        "title": "The Alchemist",
+        "chapters": 4,
+        "synopsis": "Ren is a humble apothecary in the Dock Ward, but he possesses a rare gift: the ability to see the Hues and Tones of souls and manipulate Ki to heal or harm. When a corrupt and powerful Guild Factor named Kaelen demands healing for a wound, Ren sees through his lies and refuses. Instead of yielding to the Factor's threats, Ren imposes a unique price: Kaelen must serve as his assistant for a week. Through a mixture of compassionate discipline and psychological dismantling, Ren forces the Factor to confront his own past trauma and find his humanity. After exhausting his Ki reserves to heal the Factor's soul, Ren must take on his adventuring persona, Fen, and join a party bound for the Sunken Temple of Yar'Loth to restore his power."
+    },
+    {
+        "id": "BakersSon_1_Bran",
+        "title": "The Baker's Son: Bran's Story",
+        "chapters": 23,
+        "synopsis": "Bran, a humble baker's son with incredible strength from years of kneading dough, is recruited by a powerful cultivation sect. Instead of becoming a typical warrior, he uses his 'Dao of Baking' to solve problems, tame beasts, and disrupt the status quo of the sect."
+    },
+    {
+        "id": "BakersSon_2_Elian_Book1",
+        "title": "The Woodworker: Book 1 - The Grain-Bound",
+        "chapters": 57,
+        "synopsis": "Elian, a master woodworker who can hear the soul of wood, tries to live a quiet life but is forced into becoming a mentor and leader in a kingdom on the brink of change."
+    },
+    {
+        "id": "BakersSon_3_Elian_Book2",
+        "title": "The Woodworker: Book 2 - The Silent Grain",
+        "chapters": 28,
+        "synopsis": "Elian's methods are replicated, and he must deal with the consequences of his own success while mentoring new students."
+    },
+    {
+        "id": "BakersSon_4_Elian_Book3",
+        "title": "The Woodworker: Book 3 - The Blighted Grain",
+        "chapters": 29,
+        "synopsis": "The kingdom faces a blighted threat, and Elian must apply his craftsman's logic to the art of war and defense."
+    },
+    {
+        "id": "BakersSon_5_Elian_Book4",
+        "title": "The Woodworker: Book 4 - The Shadow of the Egg",
+        "chapters": 12,
+        "synopsis": "Elian deals with the aftermath of war, a royal workshop, and becoming a terrifying mythological figure of competence."
+    },
+    {
+        "id": "BakersSon_6_Garrick_Book1",
+        "title": "The Tailor: Book 1 - The Velvet Lie",
+        "chapters": 16,
+        "synopsis": "Garrick, a master tailor, uses his skills to navigate the criminal underworld and the high society, stitching together a web of lies and alliances."
+    },
+    {
+        "id": "BakersSon_7_Garrick_Book2",
+        "title": "The Tailor: Book 2 - The Emperor's New Clothes",
+        "chapters": 17,
+        "synopsis": "Garrick deals with the royal family and a toddler tyrant, using his craft to survive and influence power."
+    },
+    {
+        "id": "BakersSon_8_Garrick_Book3",
+        "title": "The Tailor: Book 3 - The Roots of the World",
+        "chapters": 4,
+        "synopsis": "Garrick's story takes a turn towards the roots of the world and food economy."
+    },
+    {
+        "id": "BakersSon_9_Garrick_Book4",
+        "title": "The Tailor: Book 4 - The Weight of Light",
+        "chapters": 6,
+        "synopsis": "Garrick works with Mythril and deals with the weight of light and legacy."
+    },
+    {
+        "id": "BakersSon_10_Garrick_Book5",
+        "title": "The Tailor: Book 5 - The Lich King's Debt",
+        "chapters": 12,
+        "synopsis": "Garrick faces the Lich King and handles a 'Kindergarten of War'."
+    },
+    {
+        "id": "BakersSon_11_Garrick_Book6",
+        "title": "The Tailor: Book 6 - The Un-Surrendered King",
+        "chapters": 26,
+        "synopsis": "Garrick acts as an envoy and auditor, dealing with the terms of surrender and auditing the System."
+    },
+    {
+        "id": "BakersSon_12_Operator_Book6",
+        "title": "The System Operator: Book 6 - The Anomaly",
+        "chapters": 31,
+        "synopsis": "The System Operator (Unit 42-Beta) monitors the universe and deals with the anomalies caused by the characters, finding that the 'cold math' doesn't always apply."
+    },
+    {
+        "id": "Repairman_1",
+        "title": "The Repairman: Book 1",
+        "chapters": 13,
+        "synopsis": "Arthur Penhaligon, a retired forensic reconstructionist, runs a repair shop where he treats broken objects like crime scenes. When an eccentric billionaire recruits him to restore lost treasures in Europe, he finds himself in a world of luxury and danger, investigating the murder of a Duke at a gala."
+    },
+    {
+        "id": "MeritousTower_1",
+        "title": "The Meritous Tower",
+        "chapters": 42,
+        "synopsis": "Jace, a malnourished 'Dreg' from the slums, and Bella, a brilliant 'Analyst' from the merchant class, are thrust into the Spire, a brutal tower climb where survival is the only rule. While the Highborn children use their wealth and training to dominate, Jace and Bella use their wits, environment, and a healthy dose of 'gutter-fighting' to survive. Forming an unconventional team, they recruit the shy healer Lia and the redeemed warrior Carol, becoming the infamous 'Team Casanova' (or the Harem, as Jace clumsily explains). A thrilling LitRPG story of competence, teamwork, and breaking the system's rules!"
     }
 ]
