@@ -52,6 +52,12 @@ async function init() {
         themeDarkBtn.classList.remove('active');
     }
 
+    if (typeof marked !== 'undefined') {
+        marked.setOptions({
+            xhtml: true
+        });
+    }
+
     setupEventListeners();
     await loadBooksManifest();
     updateUI();
@@ -303,7 +309,7 @@ function toggleAdminView() {
     }
 }
 
-// Format For Kindle
+// Format For Kindle (EPUB Generation)
 async function formatForKindle() {
     const bookId = adminBookSelector.value;
     const book = booksData.find(b => b.id === bookId);
@@ -313,29 +319,104 @@ async function formatForKindle() {
         return;
     }
     
-    adminMessage.innerHTML = '<p class="loading">Fetching chapters... 0%</p>';
+    adminMessage.innerHTML = '<p class="loading">Generating EPUB... 0%</p>';
     formatKindleBtn.disabled = true;
     
-    let combinedContent = `<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>${book.title}</title>
-    <style>
-        body { font-family: serif; line-height: 1.6; margin: 2em; }
-        h1 { text-align: center; margin-bottom: 2em; }
-        h2 { page-break-before: always; margin-top: 2em; }
-        .chapter-content { margin-bottom: 3em; }
-    </style>
-</head>
-<body>
-    <h1>${book.title}</h1>
-`;
-    
     try {
+        const zip = new JSZip();
+        
+        // 1. mimetype (MUST be first and uncompressed)
+        zip.file("mimetype", "application/epub+zip", { compression: "STORE" });
+        
+        // 2. META-INF/container.xml
+        const containerXml = `<?xml version="1.0"?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+  <rootfiles>
+    <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+  </rootfiles>
+</container>`;
+        zip.folder("META-INF").file("container.xml", containerXml);
+        
+        // 3. OEBPS files
+        const oebps = zip.folder("OEBPS");
+        
+        // Check if cover exists
+        let hasCover = false;
+        try {
+            const coverResponse = await fetch(`books/${bookId}/cover.jpg`);
+            if (coverResponse.ok) {
+                const coverBlob = await coverResponse.blob();
+                oebps.file("cover.jpg", coverBlob);
+                hasCover = true;
+            }
+        } catch (e) {
+            console.log("No cover.jpg found or failed to fetch.");
+        }
+        
+        // Generate UUID for book
+        const bookUuid = uuidv4();
+        
+        // Start OPF (Manifest)
+        let opfContent = `<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>${book.title}</dc:title>
+    <dc:creator>Bart Trahan</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:${bookUuid}</dc:identifier>
+    <dc:language>en</dc:language>
+`;
+        if (hasCover) {
+            opfContent += `    <meta name="cover" content="cover-image" />\n`;
+        }
+        opfContent += `  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+`;
+        
+        let spineContent = `  <spine toc="ncx">\n`;
+        
+        let ncxContent = `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD NCX 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:${bookUuid}"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle><text>${book.title}</text></docTitle>
+  <navMap>
+`;
+        
+        let playOrder = 1;
+        
+        if (hasCover) {
+            // Add cover.html
+            const coverHtml = `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Cover</title></head>
+<body style="text-align: center; margin: 0; padding: 0;">
+  <img src="cover.jpg" alt="Cover" style="max-width: 100%; height: auto;" />
+</body>
+</html>`;
+            oebps.file("cover.html", coverHtml);
+            
+            opfContent += `    <item id="cover" href="cover.html" media-type="application/xhtml+xml"/>\n`;
+            opfContent += `    <item id="cover-image" href="cover.jpg" media-type="image/jpeg"/>\n`;
+            
+            spineContent += `    <itemref idref="cover" />\n`;
+            
+            ncxContent += `    <navPoint id="navPoint-0" playOrder="${playOrder++}">
+      <navLabel><text>Cover</text></navLabel>
+      <content src="cover.html"/>
+    </navPoint>\n`;
+        }
+        
+        // Loop through chapters
         for (let i = 1; i <= book.chapters; i++) {
             const percent = Math.round((i / book.chapters) * 100);
-            adminMessage.innerHTML = `<p class="loading">Fetching chapters... ${percent}%</p>`;
+            adminMessage.innerHTML = `<p class="loading">Processing chapters... ${percent}%</p>`;
             
             const paddedNum = i.toString().padStart(2, '0');
             const url = `books/${bookId}/chapter_${paddedNum}.md`;
@@ -348,30 +429,59 @@ async function formatForKindle() {
             
             if (typeof marked !== 'undefined') {
                 html = marked.parse(markdown);
+                // Force self-closing tags for XHTML compliance
+                html = html.replace(/<hr>/g, '<hr />');
+                html = html.replace(/<br>/g, '<br />');
             } else {
                 html = `<pre>${markdown}</pre>`;
             }
             
-            combinedContent += `
-    <div class="chapter-content">
-        <h2>Chapter ${i}</h2>
-        ${html}
-    </div>
-`;
-        }
-        
-        combinedContent += `
+            const chapterHtml = `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Chapter ${i}</title>
+  <style>
+    body { font-family: serif; line-height: 1.6; margin: 1em; }
+    h1 { text-align: center; color: #3b82f6; }
+  </style>
+</head>
+<body>
+  <h1>Chapter ${i}</h1>
+  ${html}
 </body>
 </html>`;
+            
+            const fileName = `chapter_${paddedNum}.html`;
+            oebps.file(fileName, chapterHtml);
+            
+            opfContent += `    <item id="chapter_${i}" href="${fileName}" media-type="application/xhtml+xml"/>\n`;
+            spineContent += `    <itemref idref="chapter_${i}" />\n`;
+            
+            ncxContent += `    <navPoint id="navPoint-${i}" playOrder="${playOrder++}">
+      <navLabel><text>Chapter ${i}</text></navLabel>
+      <content src="${fileName}"/>
+    </navPoint>\n`;
+        }
+        
+        // Close manifest, spine, ncx
+        opfContent += `  </manifest>\n${spineContent}  </spine>\n</package>`;
+        ncxContent += `  </navMap>\n</ncx>`;
+        
+        oebps.file("content.opf", opfContent);
+        oebps.file("toc.ncx", ncxContent);
+        
+        adminMessage.innerHTML = '<p class="loading">Zipping files...</p>';
+        
+        const content = await zip.generateAsync({ type: "blob" });
         
         adminMessage.innerHTML = '<p class="success">Generation complete! Downloading...</p>';
         
         // Trigger download
-        const blob = new Blob([combinedContent], { type: 'text/html' });
-        const url = URL.createObjectURL(blob);
+        const url = URL.createObjectURL(content);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `${book.title}.html`;
+        a.download = `${book.title}.epub`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
@@ -383,6 +493,14 @@ async function formatForKindle() {
     } finally {
         formatKindleBtn.disabled = false;
     }
+}
+
+// Helper to generate UUID
+function uuidv4() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+        var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+        return v.toString(16);
+    });
 }
 
 // Render Library Grid
