@@ -285,6 +285,11 @@ body {
     border-color: var(--accent-color);
 }
 
+#view-library {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .sidebar {
